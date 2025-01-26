@@ -8,13 +8,12 @@ function ActividadesPage() {
   ];
 
   return (
-    <section className="grid gap-4">
-      <Tablesoficila
-        url={"dashboard/activitytypes"}
-        columns={columns}
-        name={"actividad"}
-        title={"Actividades"}
-      />
+    <section className="grid gap-4 bg-white shadow-md p-4 rounded-md">
+
+      <h1>
+        Control de asistencia
+      </h1>
+    
     </section>
   );
 }
