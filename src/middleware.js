@@ -22,7 +22,7 @@ export async function middleware(req) {
   // Obtén el token de la cookie de sesión
   const token = await getToken({ req, secret });
   const isLoggedIn = !!token;
-  // PK_partner(token)
+  console.log(token)
 
   // Si el usuario no está autenticado y la ruta no es protegida, continuar
   if (!isLoggedIn && !routePermissions.some(({ route }) => convertToRegex(route).test(pathname))) {

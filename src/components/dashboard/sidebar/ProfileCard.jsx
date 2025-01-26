@@ -8,21 +8,17 @@ import { useSession } from "next-auth/react";
 function ProfileCard() {
   const [isCardVisible, setIsCardVisible] = useState(false);
   const { data: session } = useSession();
-  const vari = process.env.AUTH_GOOGLE_SECRET
-  console.log(session?.user)
-
+  const vari = process.env.AUTH_GOOGLE_SECRET;
+  console.log(session?.user);
 
   const now = new Date();
   const expirationDate = new Date(session?.expires);
 
-  if(now < expirationDate){
+  if (now < expirationDate) {
     // console.log("Vigente")
     // console.log("Fecha actual: "+ now)
-  }else{
-   
+  } else {
   }
-
-  
 
   const toggleCardVisibility = () => {
     setIsCardVisible((prevState) => !prevState);
@@ -68,6 +64,7 @@ function ProfileCard() {
             )}
 
             <p className="p-2 text-lg">{session?.user?.name}</p>
+            
           </div>
 
           <ul className="grid gap-2 p-4" onClick={toggleCardVisibility}>
@@ -95,6 +92,7 @@ function ProfileCard() {
                 <span>Dashboard</span>
               </Link>
             </li>
+            <p>{session?.privilege}</p>
             {/* <li>
               <Link
                 onClick={toggleCardVisibility}
