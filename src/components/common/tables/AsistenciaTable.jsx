@@ -188,7 +188,7 @@ function AsistenciaTable({ url, columns, name, title, params }) {
                   ))}
                   <td className="flex items-center py-3 justify-center">
                     <CardAsistencia id={row.ID} params={params} />
-                    <p>{row.ID}</p>
+                
                   </td>
                 </tr>
               );
