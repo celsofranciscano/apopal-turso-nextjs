@@ -11,7 +11,7 @@ function AsistenciaTable({ url, columns, name, title, params }) {
   const [data, setData] = useState([]);
   const [filteredData, setFilteredData] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
-  const [rowsPerPage, setRowsPerPage] = useState(50);
+  const [rowsPerPage, setRowsPerPage] = useState(200);
 
   // Contadores de Controls
   const [counts, setCounts] = useState({
@@ -95,6 +95,7 @@ function AsistenciaTable({ url, columns, name, title, params }) {
           Permiso: {counts.Permiso}
         </div>
       </div>
+          <SearchTable data={data} setFilteredData={setFilteredData} />
 
       {/* Opciones de paginación y búsqueda */}
       <div className="flex items-center justify-between">
@@ -105,8 +106,6 @@ function AsistenciaTable({ url, columns, name, title, params }) {
             value={rowsPerPage}
             onChange={handleRowsPerPageChange}
           >
-            <option value={50}>50</option>
-            <option value={100}>100</option>
             <option value={200}>200</option>
           </select>
           <span>registros</span>
@@ -114,31 +113,29 @@ function AsistenciaTable({ url, columns, name, title, params }) {
 
         <div className="flex items-center gap-4">
           {/* Botón de refresh */}
-          <button 
-            onClick={handleRefresh} 
+          <button
+            onClick={handleRefresh}
             className="flex items-center gap-2 bg-zinc-200 px-4 py-2 rounded-md"
           >
-            <svg 
+            <svg
               className="w-6 h-6 text-current"
-              aria-hidden="true" 
-              xmlns="http://www.w3.org/2000/svg" 
-              width="24" 
-              height="24" 
-              fill="none" 
+              aria-hidden="true"
+              xmlns="http://www.w3.org/2000/svg"
+              width="24"
+              height="24"
+              fill="none"
               viewBox="0 0 24 24"
             >
-              <path 
-                stroke="currentColor" 
-                strokeLinecap="round" 
-                strokeLinejoin="round" 
-                strokeWidth="2" 
+              <path
+                stroke="currentColor"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
                 d="M17.651 7.65a7.131 7.131 0 0 0-12.68 3.15M18.001 4v4h-4m-7.652 8.35a7.13 7.13 0 0 0 12.68-3.15M6 20v-4h4"
               />
             </svg>
             Refresh
           </button>
-
-          <SearchTable data={data} setFilteredData={setFilteredData} />
         </div>
       </div>
 

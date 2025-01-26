@@ -1,6 +1,6 @@
 import AsistenciaTable from "@/components/common/tables/AsistenciaTable";
 function Asistencia({params}) {
-  const columns = ["ID", "Codigo", "Nombre", "Apellido","Control","Ingreso"];
+  const columns = [ "Codigo", "Nombre", "Apellido","Control",];
 
   return (
     <section className="grid gap-4">

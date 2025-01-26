@@ -17,7 +17,7 @@ function Table({ url, columns, name, title }) {
   const [data, setData] = useState([]);
   const [filteredData, setFilteredData] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
-  const [rowsPerPage, setRowsPerPage] = useState(50);
+  const [rowsPerPage, setRowsPerPage] = useState(200);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -64,19 +64,18 @@ function Table({ url, columns, name, title }) {
             value={rowsPerPage}
             onChange={handleRowsPerPageChange}
           >
-            <option value={50}>50</option>
-            <option value={100}>100</option>
+           
             <option value={200}>200</option>
           </select>
           <span>registros</span>
         </div>
 
         <div className="flex items-center gap-4">
+          <SearchTable data={data} setFilteredData={setFilteredData} />
           <FilterTable />
           <ExportTable filteredData={filteredData} />
           <SortTable />
           <ConfigTable />
-          <SearchTable data={data} setFilteredData={setFilteredData} />
         </div>
       </div>
 
