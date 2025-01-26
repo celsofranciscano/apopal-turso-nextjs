@@ -11,6 +11,10 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      backgroundImage: {
+        'fondo': "url('/fondo.jpg')",
+     
+      }
     },
   },
   plugins: [],

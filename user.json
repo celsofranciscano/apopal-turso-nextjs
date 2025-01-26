@@ -1,0 +1,3934 @@
+[
+  {
+    "code": "0001",
+    "CI": "00000000",
+    "firstName": "DIONICIA",
+    "lastName": "MAMANI CONDORI"
+  },
+  {
+    "code": "0002",
+    "CI": "00000000",
+    "firstName": "FRANCISCA",
+    "lastName": "CHOQUE ESPINOZA"
+  },
+  {
+    "code": "0003",
+    "CI": "00000000",
+    "firstName": "GREGORIO",
+    "lastName": "ALA ALVAREZ"
+  },
+  {
+    "code": "0004",
+    "CI": "00000000",
+    "firstName": "JUAN CARLOS",
+    "lastName": "ALEGRIA MARTINEZ"
+  },
+  {
+    "code": "0005",
+    "CI": "00000000",
+    "firstName": "ZENON",
+    "lastName": "QUISPE MAMANI"
+  },
+  {
+    "code": "0006",
+    "CI": "00000000",
+    "firstName": "WALTER PEPE",
+    "lastName": "VILLCA APAZA"
+  },
+  {
+    "code": "0007",
+    "CI": "00000000",
+    "firstName": "JUAN EDUAR",
+    "lastName": "MAGNE CHIRILLA"
+  },
+  {
+    "code": "0008",
+    "CI": "00000000",
+    "firstName": "ASAMBLEA DE DIOS",
+    "lastName": ""
+  },
+  {
+    "code": "0009",
+    "CI": "00000000",
+    "firstName": "ERNESTO",
+    "lastName": "MANCILLA LEON"
+  },
+  {
+    "code": "0010",
+    "CI": "00000000",
+    "firstName": "TORIBIO",
+    "lastName": "BALDERRAMA CAMACHO"
+  },
+  {
+    "code": "0011",
+    "CI": "00000000",
+    "firstName": "LEONARDO",
+    "lastName": "BAUTISTA AJUMADO"
+  },
+  {
+    "code": "0012",
+    "CI": "00000000",
+    "firstName": "JOSE LUIS",
+    "lastName": "BLANCO AGUILAR"
+  },
+  {
+    "code": "0013",
+    "CI": "00000000",
+    "firstName": "JUAN",
+    "lastName": "BORDA COCA"
+  },
+  {
+    "code": "0014",
+    "CI": "00000000",
+    "firstName": "ANDREA",
+    "lastName": "LAZO de CACERES"
+  },
+  {
+    "code": "0015",
+    "CI": "00000000",
+    "firstName": "MARIA",
+    "lastName": "CACERES MAMANI"
+  },
+  {
+    "code": "0016",
+    "CI": "00000000",
+    "firstName": "ELIZABET",
+    "lastName": "JIMENES DE ARO"
+  },
+  {
+    "code": "0017",
+    "CI": "00000000",
+    "firstName": "CELESTINO",
+    "lastName": "CALIZAYA MAMANI"
+  },
+  {
+    "code": "0018",
+    "CI": "00000000",
+    "firstName": "TEOFILO",
+    "lastName": "CALLAO ESCALERA"
+  },
+  {
+    "code": "0019",
+    "CI": "00000000",
+    "firstName": "JACINTO",
+    "lastName": "CALLEJAS O"
+  },
+  {
+    "code": "0020",
+    "CI": "00000000",
+    "firstName": "DORA",
+    "lastName": "CRESPO O"
+  },
+  {
+    "code": "0021",
+    "CI": "00000000",
+    "firstName": "FABIAN",
+    "lastName": "CARICARI TORREJON"
+  },
+  {
+    "code": "0022",
+    "CI": "00000000",
+    "firstName": "VIVIANA GIOVANA",
+    "lastName": "CARRION VALDEZ"
+  },
+  {
+    "code": "0023",
+    "CI": "00000000",
+    "firstName": "NESTOR",
+    "lastName": "GONZALES ROCHA"
+  },
+  {
+    "code": "0024",
+    "CI": "00000000",
+    "firstName": "JUAN",
+    "lastName": "CABA 0"
+  },
+  {
+    "code": "0025",
+    "CI": "00000000",
+    "firstName": "EUFRONIA",
+    "lastName": "COCA CACERES"
+  },
+  {
+    "code": "0026",
+    "CI": "00000000",
+    "firstName": "RODRIGO",
+    "lastName": "PACO MAMANI"
+  },
+  {
+    "code": "0027",
+    "CI": "00000000",
+    "firstName": "DELIA",
+    "lastName": "COCA OROSCO"
+  },
+  {
+    "code": "0028",
+    "CI": "00000000",
+    "firstName": "WILSON SANDRO",
+    "lastName": "OJEDA COCA"
+  },
+  {
+    "code": "0029",
+    "CI": "00000000",
+    "firstName": "DEMETRIO",
+    "lastName": "COCA OROSCO"
+  },
+  {
+    "code": "0030",
+    "CI": "00000000",
+    "firstName": "GREGORIO",
+    "lastName": "COCA PERES"
+  },
+  {
+    "code": "0031",
+    "CI": "00000000",
+    "firstName": "FRANCISCA",
+    "lastName": "COCA SOTO"
+  },
+  {
+    "code": "0032",
+    "CI": "00000000",
+    "firstName": "ALBERTO",
+    "lastName": "COLQUE ACERO"
+  },
+  {
+    "code": "0033",
+    "CI": "00000000",
+    "firstName": "JUAN",
+    "lastName": "COLQUE PACHECO"
+  },
+  {
+    "code": "0034",
+    "CI": "00000000",
+    "firstName": "CRESENCIO",
+    "lastName": "CONDORI VENTURA"
+  },
+  {
+    "code": "0035",
+    "CI": "00000000",
+    "firstName": "AGUSTIN",
+    "lastName": "COPA AMARU"
+  },
+  {
+    "code": "0036",
+    "CI": "00000000",
+    "firstName": "DEMETRIA",
+    "lastName": "COPA AMARU"
+  },
+  {
+    "code": "0037",
+    "CI": "00000000",
+    "firstName": "SONIA",
+    "lastName": "MAMANI TICLLA"
+  },
+  {
+    "code": "0038",
+    "CI": "00000000",
+    "firstName": "APOPAL (LOTE Nº 2)",
+    "lastName": ""
+  },
+  {
+    "code": "0039",
+    "CI": "00000000",
+    "firstName": "RUTH NELVA",
+    "lastName": "CRISPIN TICLLA"
+  },
+  {
+    "code": "0040",
+    "CI": "00000000",
+    "firstName": "ELICEO",
+    "lastName": "CRUZ O"
+  },
+  {
+    "code": "0041",
+    "CI": "00000000",
+    "firstName": "TIBURCIO",
+    "lastName": "SULLCAMANI HUANACO"
+  },
+  {
+    "code": "0042",
+    "CI": "00000000",
+    "firstName": "REYNALDO",
+    "lastName": "CHOQUE O"
+  },
+  {
+    "code": "0043",
+    "CI": "00000000",
+    "firstName": "LEONCIO",
+    "lastName": "CHOQUETOPA HUAYLLANI"
+  },
+  {
+    "code": "0044",
+    "CI": "00000000",
+    "firstName": "PABLO",
+    "lastName": "CHUMACERO LEON"
+  },
+  {
+    "code": "0045",
+    "CI": "00000000",
+    "firstName": "TOMAS",
+    "lastName": "ESCARAY MAMANI"
+  },
+  {
+    "code": "0046",
+    "CI": "00000000",
+    "firstName": "DAVID",
+    "lastName": "FERNANDEZ QUISPE"
+  },
+  {
+    "code": "0047",
+    "CI": "00000000",
+    "firstName": "CRISPIN",
+    "lastName": "FLORES CANAVIRI"
+  },
+  {
+    "code": "0048",
+    "CI": "00000000",
+    "firstName": "YHONNY",
+    "lastName": "RAMIREZ GERONIMO"
+  },
+  {
+    "code": "0049",
+    "CI": "00000000",
+    "firstName": "GEORGINA",
+    "lastName": "FLORES VILLCA"
+  },
+  {
+    "code": "0050",
+    "CI": "00000000",
+    "firstName": "VALERIO LUIS",
+    "lastName": "COPALI SUTURO"
+  },
+  {
+    "code": "0051",
+    "CI": "00000000",
+    "firstName": "AMILCAR ESTEBAN",
+    "lastName": "FUENTES"
+  },
+  {
+    "code": "0052",
+    "CI": "00000000",
+    "firstName": "CARMEN ROSA",
+    "lastName": "CASTELLON MAITA"
+  },
+  {
+    "code": "0053",
+    "CI": "00000000",
+    "firstName": "HILARION",
+    "lastName": "GONZALES ZEBALLOS"
+  },
+  {
+    "code": "0054",
+    "CI": "00000000",
+    "firstName": "VITALIANO",
+    "lastName": "GONZALES RICALDE"
+  },
+  {
+    "code": "0055",
+    "CI": "00000000",
+    "firstName": "SEVERO",
+    "lastName": "GUSMAN ARGANA"
+  },
+  {
+    "code": "0056",
+    "CI": "00000000",
+    "firstName": "JULIO",
+    "lastName": "HERRERA CORANI"
+  },
+  {
+    "code": "0057",
+    "CI": "00000000",
+    "firstName": "SANTOS",
+    "lastName": "HERRERA CORANI"
+  },
+  {
+    "code": "0058",
+    "CI": "00000000",
+    "firstName": "ISAAC",
+    "lastName": "HERRERA CHAVES"
+  },
+  {
+    "code": "0059",
+    "CI": "00000000",
+    "firstName": "TEOFILO",
+    "lastName": "MARCA NINA"
+  },
+  {
+    "code": "0060",
+    "CI": "00000000",
+    "firstName": "JUAN",
+    "lastName": "CABEZAS FLORES"
+  },
+  {
+    "code": "0061",
+    "CI": "00000000",
+    "firstName": "CECILIO",
+    "lastName": "HUARAHUARA O"
+  },
+  {
+    "code": "0062",
+    "CI": "00000000",
+    "firstName": "SINFORIANO",
+    "lastName": "JAMILLO LEON"
+  },
+  {
+    "code": "0063",
+    "CI": "00000000",
+    "firstName": "KATTY ALICIA",
+    "lastName": "ORMACHEA MAMANI"
+  },
+  {
+    "code": "0064",
+    "CI": "00000000",
+    "firstName": "PAULINA",
+    "lastName": "LAZO ESCALERA"
+  },
+  {
+    "code": "0065",
+    "CI": "00000000",
+    "firstName": "ROGELIO",
+    "lastName": "LAZO ESCALERA"
+  },
+  {
+    "code": "0066",
+    "CI": "00000000",
+    "firstName": "LEONARDO",
+    "lastName": "CALA ROJAS"
+  },
+  {
+    "code": "0067",
+    "CI": "00000000",
+    "firstName": "EDILBERTO",
+    "lastName": "LIPIRI NAVARRO"
+  },
+  {
+    "code": "0068",
+    "CI": "00000000",
+    "firstName": "VICTORIA",
+    "lastName": "ZABALA RIVEROS"
+  },
+  {
+    "code": "0069",
+    "CI": "00000000",
+    "firstName": "JULIO",
+    "lastName": "LOVERA VILLAN"
+  },
+  {
+    "code": "0070",
+    "CI": "00000000",
+    "firstName": "MARTINA",
+    "lastName": "MAMANI REZO"
+  },
+  {
+    "code": "0071",
+    "CI": "00000000",
+    "firstName": "ESTEBAN",
+    "lastName": "LUNA MENDOZA"
+  },
+  {
+    "code": "0072",
+    "CI": "00000000",
+    "firstName": "GABRIELA CATALINA",
+    "lastName": "SARAVIA OROSCO"
+  },
+  {
+    "code": "0073",
+    "CI": "00000000",
+    "firstName": "EMILIO",
+    "lastName": "MAMANI CANAVIRI"
+  },
+  {
+    "code": "0074",
+    "CI": "00000000",
+    "firstName": "FELICIA",
+    "lastName": "CABALLERO DIAZ DE NINA"
+  },
+  {
+    "code": "0075",
+    "CI": "00000000",
+    "firstName": "ELIZABETH",
+    "lastName": "MAMANI"
+  },
+  {
+    "code": "0076",
+    "CI": "00000000",
+    "firstName": "PAULINO",
+    "lastName": "ZUNA CHURA"
+  },
+  {
+    "code": "0077",
+    "CI": "00000000",
+    "firstName": "ASTERIA",
+    "lastName": "COCA DE MEDRANO"
+  },
+  {
+    "code": "0078",
+    "CI": "00000000",
+    "firstName": "FRANCISCO",
+    "lastName": "MAMANI MAMANI"
+  },
+  {
+    "code": "0079",
+    "CI": "00000000",
+    "firstName": "ELIO MOISES",
+    "lastName": "QUISPE CLAROS"
+  },
+  {
+    "code": "0080",
+    "CI": "00000000",
+    "firstName": "MARIO",
+    "lastName": "MAMANI TAQUICHIRI"
+  },
+  {
+    "code": "0081",
+    "CI": "00000000",
+    "firstName": "ARMANDO",
+    "lastName": "VELASQUEZ ESCALERA"
+  },
+  {
+    "code": "0082",
+    "CI": "00000000",
+    "firstName": "PRIMITIVO",
+    "lastName": "MARCANI O"
+  },
+  {
+    "code": "0083",
+    "CI": "00000000",
+    "firstName": "EDWIN",
+    "lastName": "LUNA APAZA"
+  },
+  {
+    "code": "0084",
+    "CI": "00000000",
+    "firstName": "SELSO",
+    "lastName": "MEDRANO ARGOTE"
+  },
+  {
+    "code": "0085",
+    "CI": "00000000",
+    "firstName": "JOSE VICENTE",
+    "lastName": "MENDIETA QUISPE"
+  },
+  {
+    "code": "0086",
+    "CI": "00000000",
+    "firstName": "MOISES",
+    "lastName": "MENDOZA RAMIREZ"
+  },
+  {
+    "code": "0087",
+    "CI": "00000000",
+    "firstName": "LIA",
+    "lastName": "COCA"
+  },
+  {
+    "code": "0088",
+    "CI": "00000000",
+    "firstName": "JUSTINIANO",
+    "lastName": "MITMA MITMA"
+  },
+  {
+    "code": "0089",
+    "CI": "00000000",
+    "firstName": "SIMOS",
+    "lastName": "AGUILAR MAYORGA"
+  },
+  {
+    "code": "0090",
+    "CI": "00000000",
+    "firstName": "NELLY",
+    "lastName": "COPATITI SOLIZ"
+  },
+
+  {
+    "code": "0091",
+    "CI": "00000000",
+    "firstName": "MAURA",
+    "lastName": "MOLLO TANGARA"
+  },
+  {
+    "code": "0092",
+    "CI": "00000000",
+    "firstName": "JAVIER RAMIRO",
+    "lastName": "MUNDOCORRE PACO"
+  },
+  {
+    "code": "0093",
+    "CI": "00000000",
+    "firstName": "CELIA",
+    "lastName": "MONTAÑO MEDRANO"
+  },
+  {
+    "code": "0094",
+    "CI": "00000000",
+    "firstName": "RUTH SCARLETH",
+    "lastName": "PACHECO VARGAS"
+  },
+  {
+    "code": "0095",
+    "CI": "00000000",
+    "firstName": "EUFRACIO",
+    "lastName": "NINA HUANCA"
+  },
+  {
+    "code": "0096",
+    "CI": "00000000",
+    "firstName": "MARIA LUISA",
+    "lastName": "CARDOZO DE ORDOÑEZ"
+  },
+  {
+    "code": "0097",
+    "CI": "00000000",
+    "firstName": "SONIA ANGELICA",
+    "lastName": "ORDOÑEZ MARTINEZ"
+  },
+  {
+    "code": "0098",
+    "CI": "00000000",
+    "firstName": "JORGE",
+    "lastName": "MAMANI GUARACHI B"
+  },
+  {
+    "code": "0099",
+    "CI": "00000000",
+    "firstName": "JULIAN",
+    "lastName": "PARINA TOROYA"
+  },
+  {
+    "code": "0100",
+    "CI": "00000000",
+    "firstName": "AGUSTINA",
+    "lastName": "PILLCO ESPINOZA"
+  },
+
+  {
+    "code": "0101",
+    "CI": "00000000",
+    "firstName": "SALOME",
+    "lastName": "PORCO GUTIERREZ"
+  },
+  {
+    "code": "0102",
+    "CI": "00000000",
+    "firstName": "SIMON",
+    "lastName": "NINA CHOQUE"
+  },
+  {
+    "code": "0103",
+    "CI": "00000000",
+    "firstName": "IDER",
+    "lastName": "CHALLAPA BELTRAN"
+  },
+  {
+    "code": "0104",
+    "CI": "00000000",
+    "firstName": "ABRAHAM",
+    "lastName": "QUICAÑA CASTRO"
+  },
+  {
+    "code": "0105",
+    "CI": "00000000",
+    "firstName": "ABRONSIO",
+    "lastName": "QUICAÑA CASTRO"
+  },
+  {
+    "code": "0106",
+    "CI": "00000000",
+    "firstName": "MARCOS",
+    "lastName": "QUISPE GONZALES"
+  },
+  {
+    "code": "0107",
+    "CI": "00000000",
+    "firstName": "HUGO",
+    "lastName": "QUISPE OLIVERA"
+  },
+  {
+    "code": "0108",
+    "CI": "00000000",
+    "firstName": "PEDRO",
+    "lastName": "ALVAREZ HUANCA"
+  },
+  {
+    "code": "0109",
+    "CI": "00000000",
+    "firstName": "SANTUSA",
+    "lastName": "CRUZ BLANCO DE GOMEZ"
+  },
+  {
+    "code": "0110",
+    "CI": "00000000",
+    "firstName": "ELECEO",
+    "lastName": "RAMIREZ CUBA"
+  },
+  {
+    "code": "0111",
+    "CI": "00000000",
+    "firstName": "CALIXTO",
+    "lastName": "RAMIRES CUBA"
+  },
+  {
+    "code": "0112",
+    "CI": "00000000",
+    "firstName": "INOSENCIO",
+    "lastName": "REYES RIOS"
+  },
+  {
+    "code": "0113",
+    "CI": "00000000",
+    "firstName": "ANGELICA",
+    "lastName": "ROCHA"
+  },
+  {
+    "code": "0114",
+    "CI": "00000000",
+    "firstName": "ISAIT MOISES",
+    "lastName": "ROJAS GOMEZ"
+  },
+  {
+    "code": "0115",
+    "CI": "00000000",
+    "firstName": "SEDENKA GRISSEL",
+    "lastName": "DORADO CANEDO"
+  },
+  {
+    "code": "0116",
+    "CI": "00000000",
+    "firstName": "OSMAR",
+    "lastName": "BAUTISTA QUISPE"
+  },
+  {
+    "code": "0117",
+    "CI": "00000000",
+    "firstName": "CRISPIN ROQUE",
+    "lastName": "CHOQUE"
+  },
+  {
+    "code": "0118",
+    "CI": "00000000",
+    "firstName": "OLGA",
+    "lastName": "SANDOVAL CAMACHO"
+  },
+  {
+    "code": "0119",
+    "CI": "00000000",
+    "firstName": "RAUL",
+    "lastName": "QUISPE GONZALES"
+  },
+  {
+    "code": "0120",
+    "CI": "00000000",
+    "firstName": "OSCAR DANIEL",
+    "lastName": "SERRANO TORRICO"
+  },
+  {
+    "code": "0121",
+    "CI": "00000000",
+    "firstName": "VILMA",
+    "lastName": "SOTO"
+  },
+  {
+    "code": "0122",
+    "CI": "00000000",
+    "firstName": "VICTORIA",
+    "lastName": "CORNEJO PACA"
+  },
+  {
+    "code": "0123",
+    "CI": "00000000",
+    "firstName": "NESTOR",
+    "lastName": "TICLLA CHOQUE"
+  },
+  {
+    "code": "0124",
+    "CI": "00000000",
+    "firstName": "ROSALIA",
+    "lastName": "TICLLA SOLIZ"
+  },
+  {
+    "code": "0125",
+    "CI": "00000000",
+    "firstName": "SINFORIANA",
+    "lastName": "TOLA BELTRAN"
+  },
+  {
+    "code": "0126",
+    "CI": "00000000",
+    "firstName": "VICTORIA",
+    "lastName": "MAMANI SOLARES"
+  },
+  {
+    "code": "0127",
+    "CI": "00000000",
+    "firstName": "RENE",
+    "lastName": "TORIVIO PATI"
+  },
+  {
+    "code": "0128",
+    "CI": "00000000",
+    "firstName": "LADISLAO",
+    "lastName": "CHOQUE SALLAMA"
+  },
+  {
+    "code": "0129",
+    "CI": "00000000",
+    "firstName": "ESTANIS",
+    "lastName": "LAO TORREZ CONDE"
+  },
+  {
+    "code": "0130",
+    "CI": "00000000",
+    "firstName": "PRIMITIVO",
+    "lastName": "PACO"
+  },
+  {
+    "code": "0131",
+    "CI": "00000000",
+    "firstName": "MARGARITA MILENCA",
+    "lastName": "QUISPE"
+  },
+  {
+    "code": "0132",
+    "CI": "00000000",
+    "firstName": "AGUSTINA",
+    "lastName": "VALDEZ SANDOVAL"
+  },
+  {
+    "code": "0133",
+    "CI": "00000000",
+    "firstName": "SANTIAGO",
+    "lastName": "VALENCIA CATARI"
+  },
+  {
+    "code": "0134",
+    "CI": "00000000",
+    "firstName": "AMADEO OVIDIO",
+    "lastName": "GUTIERREZ"
+  },
+  {
+    "code": "0135",
+    "CI": "00000000",
+    "firstName": "ALEJANDRO",
+    "lastName": "VIDAL FRANCO"
+  },
+  {
+    "code": "0136",
+    "CI": "00000000",
+    "firstName": "VALENTIN",
+    "lastName": "CHAMBI CORREA"
+  },
+  {
+    "code": "0137",
+    "CI": "00000000",
+    "firstName": "FRANCISCO",
+    "lastName": "MAMANI QUISPE"
+  },
+  {
+    "code": "0138",
+    "CI": "00000000",
+    "firstName": "GENOVEVA",
+    "lastName": "CONDORI COLQUE"
+  },
+  {
+    "code": "0139",
+    "CI": "00000000",
+    "firstName": "FREIDDY",
+    "lastName": "CARBALLO BESERRA"
+  },
+  {
+    "code": "0140",
+    "CI": "00000000",
+    "firstName": "OSCAR",
+    "lastName": "VILLCA AMBROCIO"
+  },
+  {
+    "code": "0141",
+    "CI": "00000000",
+    "firstName": "PATRICIA",
+    "lastName": "CHINCHAYA COLQUE"
+  },
+  {
+    "code": "0142",
+    "CI": "00000000",
+    "firstName": "DIONICIO ZENON",
+    "lastName": "QUINA CAPUMO"
+  },
+  {
+    "code": "0143",
+    "CI": "00000000",
+    "firstName": "LEONCIO",
+    "lastName": "ZUNA COPACONDO"
+  },
+  {
+    "code": "0144",
+    "CI": "00000000",
+    "firstName": "WAGNER",
+    "lastName": "TUMILI VASQUEZ"
+  },
+  {
+    "code": "0145",
+    "CI": "00000000",
+    "firstName": "MIRIAM",
+    "lastName": "FLORES"
+  },
+  {
+    "code": "0146",
+    "CI": "00000000",
+    "firstName": "LOURDES",
+    "lastName": "CHOQUE DE LOPES"
+  },
+  {
+    "code": "0147",
+    "CI": "00000000",
+    "firstName": "TEODORO",
+    "lastName": "ARUQUIPA LAURA"
+  },
+  {
+    "code": "0148",
+    "CI": "00000000",
+    "firstName": "CELEDONIO",
+    "lastName": "CHOQUE"
+  },
+  {
+    "code": "0149",
+    "CI": "00000000",
+    "firstName": "NATIVIDAD",
+    "lastName": "TORRICO SALAZAR"
+  },
+  {
+    "code": "0150",
+    "CI": "00000000",
+    "firstName": "SEVERO",
+    "lastName": "COCA CALVI"
+  },
+  {
+    "code": "0151",
+    "CI": "00000000",
+    "firstName": "LUCIANO",
+    "lastName": "CALCINA MAMANI"
+  },
+  {
+    "code": "0152",
+    "CI": "00000000",
+    "firstName": "CORSINO",
+    "lastName": "UBINA POMA"
+  },
+  {
+    "code": "0153",
+    "CI": "00000000",
+    "firstName": "ALEJA",
+    "lastName": "ALATA VASQUEZ"
+  },
+  {
+    "code": "0154",
+    "CI": "00000000",
+    "firstName": "MARCOS",
+    "lastName": "SILVA CHOQUE"
+  },
+  {
+    "code": "0155",
+    "CI": "00000000",
+    "firstName": "FEDERICO",
+    "lastName": "COLQUE"
+  },
+  {
+    "code": "0156",
+    "CI": "00000000",
+    "firstName": "SABINA",
+    "lastName": "GONSALEZ COCA"
+  },
+  {
+    "code": "0157",
+    "CI": "00000000",
+    "firstName": "FRANCISCO",
+    "lastName": "SILES VILLARROEL"
+  },
+  {
+    "code": "0158",
+    "CI": "00000000",
+    "firstName": "SESAR",
+    "lastName": "GONZALES"
+  },
+  {
+    "code": "0159",
+    "CI": "00000000",
+    "firstName": "RENE",
+    "lastName": "HERBAS GEMIO"
+  },
+  {
+    "code": "0160",
+    "CI": "00000000",
+    "firstName": "PRIMO",
+    "lastName": "CHAMBI VEIZAN"
+  },
+  {
+    "code": "0161",
+    "CI": "00000000",
+    "firstName": "ALEJANDRO",
+    "lastName": "COPACONDO"
+  },
+  {
+    "code": "0162",
+    "CI": "00000000",
+    "firstName": "FLORENCIO",
+    "lastName": "LIMACHI ALVA"
+  },
+  {
+    "code": "0163",
+    "CI": "00000000",
+    "firstName": "WILLY",
+    "lastName": "PAUCARA COARITE"
+  },
+  {
+    "code": "0164",
+    "CI": "00000000",
+    "firstName": "EMILIO JESUS",
+    "lastName": "ROSALES"
+  },
+  {
+    "code": "0165",
+    "CI": "00000000",
+    "firstName": "EFRAIN",
+    "lastName": "VILLAN VEIZAN"
+  },
+  {
+    "code": "0166",
+    "CI": "00000000",
+    "firstName": "JUANA IRENE",
+    "lastName": "IGNACIO MAMANI"
+  },
+  {
+    "code": "0167",
+    "CI": "00000000",
+    "firstName": "ANGELICA",
+    "lastName": "NINA PEREZ"
+  },
+  {
+    "code": "0168",
+    "CI": "00000000",
+    "firstName": "JUAN JOSE",
+    "lastName": "TACURI CEJAS"
+  },
+  {
+    "code": "0169",
+    "CI": "00000000",
+    "firstName": "MILTON",
+    "lastName": "FLORES ROCHA"
+  },
+  {
+    "code": "0170",
+    "CI": "00000000",
+    "firstName": "ZACARIAS PASCUAL",
+    "lastName": "CONDORI"
+  },
+  {
+    "code": "0171",
+    "CI": "00000000",
+    "firstName": "ANDRES",
+    "lastName": "GOMES VILLCA"
+  },
+  {
+    "code": "0172",
+    "CI": "00000000",
+    "firstName": "PEDRO",
+    "lastName": "RUEDA"
+  },
+  {
+    "code": "0173",
+    "CI": "00000000",
+    "firstName": "MARIO CHRISTIAN",
+    "lastName": "MAGNE RODRIGUEZ"
+  },
+  {
+    "code": "0174",
+    "CI": "00000000",
+    "firstName": "FILIBERTO",
+    "lastName": "PEREZ"
+  },
+  {
+    "code": "0175",
+    "CI": "00000000",
+    "firstName": "NESTOR",
+    "lastName": "ALEGRE ESCALERA"
+  },
+  {
+    "code": "0176",
+    "CI": "00000000",
+    "firstName": "HECTOR",
+    "lastName": "JUCUTA TIAMARCA"
+  },
+  {
+    "code": "0177",
+    "CI": "00000000",
+    "firstName": "AMERICO",
+    "lastName": "ZURITA QUISPE"
+  },
+  {
+    "code": "0178",
+    "CI": "00000000",
+    "firstName": "FELIPE",
+    "lastName": "FLORES MAMANI"
+  },
+  {
+    "code": "0179",
+    "CI": "00000000",
+    "firstName": "VERNARDINO",
+    "lastName": "ORELLANA CALATAYUD"
+  },
+  {
+    "code": "0180",
+    "CI": "00000000",
+    "firstName": "LUCY",
+    "lastName": "VARGAS"
+  },
+  {
+    "code": "0181",
+    "CI": "00000000",
+    "firstName": "MANUAL HECTOR",
+    "lastName": "MAMANI GARCIA"
+  },
+  {
+    "code": "0182",
+    "CI": "00000000",
+    "firstName": "FAUSTINO",
+    "lastName": "ENSINAS"
+  },
+  {
+    "code": "0183",
+    "CI": "00000000",
+    "firstName": "NORMA",
+    "lastName": "SANTOS GABRIEL"
+  },
+  {
+    "code": "0184",
+    "CI": "00000000",
+    "firstName": "FLORA",
+    "lastName": "ESPINOZA ALEGRE"
+  },
+  {
+    "code": "0185",
+    "CI": "00000000",
+    "firstName": "MARIO",
+    "lastName": "CALLE RAMOS"
+  },
+  {
+    "code": "0186",
+    "CI": "00000000",
+    "firstName": "ABDON",
+    "lastName": "LOPEZ RIOS"
+  },
+  {
+    "code": "0187",
+    "CI": "00000000",
+    "firstName": "ALVERTO",
+    "lastName": "MIRANDA TOCO"
+  },
+  {
+    "code": "0188",
+    "CI": "00000000",
+    "firstName": "JULIA",
+    "lastName": "CASERES COCA"
+  },
+  {
+    "code": "0189",
+    "CI": "00000000",
+    "firstName": "DEMETRIA",
+    "lastName": "UGARTE NOVILLO"
+  },
+  {
+    "code": "0190",
+    "CI": "00000000",
+    "firstName": "TIMOTEO",
+    "lastName": "MAMANI MARZANA"
+  },
+  {
+    "code": "0191",
+    "CI": "00000000",
+    "firstName": "SENON",
+    "lastName": "SOTO"
+  },
+  {
+    "code": "0192",
+    "CI": "00000000",
+    "firstName": "MARIA AURELIA",
+    "lastName": "ESCALERA CASERES"
+  },
+  {
+    "code": "0193",
+    "CI": "00000000",
+    "firstName": "ALEJANDRO",
+    "lastName": "NINA PEREZ"
+  },
+  {
+    "code": "0194",
+    "CI": "00000000",
+    "firstName": "ROSA",
+    "lastName": "JAUREGUI ADUVIRI"
+  },
+  {
+    "code": "0195",
+    "CI": "00000000",
+    "firstName": "ALVERTO",
+    "lastName": "ROCHA VALDIVIA"
+  },
+  {
+    "code": "0196",
+    "CI": "00000000",
+    "firstName": "ORLANDO",
+    "lastName": "BASCOPE MENDES"
+  },
+  {
+    "code": "0197",
+    "CI": "00000000",
+    "firstName": "PELAGIA BASILIA",
+    "lastName": "ESCALERA CACERES"
+  },
+  {
+    "code": "0198",
+    "CI": "00000000",
+    "firstName": "JUAN CARLOS",
+    "lastName": "FAJARDO GUSMAN"
+  },
+  {
+    "code": "0199",
+    "CI": "00000000",
+    "firstName": "REBECA",
+    "lastName": "GUARACHI DE CALLE"
+  },
+  {
+    "code": "0200",
+    "CI": "00000000",
+    "firstName": "JABIER",
+    "lastName": "FLORES MAMANI"
+  },
+
+  {
+    "code": "0201",
+    "CI": "00000000",
+    "firstName": "EMILIO",
+    "lastName": "VIRACA GUAYGUA"
+  },
+  {
+    "code": "0202",
+    "CI": "00000000",
+    "firstName": "ALEX",
+    "lastName": "MACHACA ALFONSO"
+  },
+  {
+    "code": "0203",
+    "CI": "00000000",
+    "firstName": "CARMEN ROSA",
+    "lastName": "ALANES"
+  },
+  {
+    "code": "0204",
+    "CI": "00000000",
+    "firstName": "AMALIA",
+    "lastName": "MAMANI DE QUISPE"
+  },
+  {
+    "code": "0205",
+    "CI": "00000000",
+    "firstName": "RAMIRO",
+    "lastName": "CONDORI MACHACA"
+  },
+  {
+    "code": "0206",
+    "CI": "00000000",
+    "firstName": "BASILIO",
+    "lastName": "ROCHA ARIZACA"
+  },
+  {
+    "code": "0207",
+    "CI": "00000000",
+    "firstName": "ADRIAN",
+    "lastName": "CORTES TOLEDO"
+  },
+  {
+    "code": "0208",
+    "CI": "00000000",
+    "firstName": "GROVER",
+    "lastName": "FLORES CRUZ"
+  },
+  {
+    "code": "0209",
+    "CI": "00000000",
+    "firstName": "REMIGIO",
+    "lastName": "JUAREZ JUCHANI"
+  },
+  {
+    "code": "0210",
+    "CI": "00000000",
+    "firstName": "FANNY",
+    "lastName": "CANEDO DE DORADO"
+  },
+  {
+    "code": "0211",
+    "CI": "00000000",
+    "firstName": "CONSTANCIA",
+    "lastName": "MAMANI DE JANCKO"
+  },
+  {
+    "code": "0212",
+    "CI": "00000000",
+    "firstName": "NEMECIO FAUSTO",
+    "lastName": "CUELLAR CALAPARI"
+  },
+  {
+    "code": "0213",
+    "CI": "00000000",
+    "firstName": "EFRAIN OSWALDO",
+    "lastName": "ARANDO QUISPE"
+  },
+  {
+    "code": "0214",
+    "CI": "00000000",
+    "firstName": "DILMA",
+    "lastName": "DORADO DE ALCALA"
+  },
+  {
+    "code": "0215",
+    "CI": "00000000",
+    "firstName": "RUÑER",
+    "lastName": "TORRICO COCA"
+  },
+  {
+    "code": "0216",
+    "CI": "00000000",
+    "firstName": "JIMMY ANTONIO",
+    "lastName": "LAZO MONTAÑO"
+  },
+  {
+    "code": "0217",
+    "CI": "00000000",
+    "firstName": "JULIAN",
+    "lastName": "SEHUENCA QUISPE"
+  },
+  {
+    "code": "0218",
+    "CI": "00000000",
+    "firstName": "VICTOR",
+    "lastName": "OJEDA FLORES"
+  },
+  {
+    "code": "0219",
+    "CI": "00000000",
+    "firstName": "FREDDY PORFIRIO",
+    "lastName": "MAMANI CONDORI"
+  },
+  {
+    "code": "0220",
+    "CI": "00000000",
+    "firstName": "ROMUALDO",
+    "lastName": "FLORES MAMANI"
+  },
+  {
+    "code": "0221",
+    "CI": "00000000",
+    "firstName": "ESTEBAN",
+    "lastName": "INGALA CHURQUI"
+  },
+  {
+    "code": "0222",
+    "CI": "00000000",
+    "firstName": "SANDALIO",
+    "lastName": "COCA ROCHA"
+  },
+  {
+    "code": "0223",
+    "CI": "00000000",
+    "firstName": "FILEMON",
+    "lastName": "RAMIRES LAIME"
+  },
+  {
+    "code": "0224",
+    "CI": "00000000",
+    "firstName": "VICENTE",
+    "lastName": "GUTIERREZ MAMANI"
+  },
+  {
+    "code": "0225",
+    "CI": "00000000",
+    "firstName": "RUFINO",
+    "lastName": "MAMANI VENTURA"
+  },
+  {
+    "code": "0226",
+    "CI": "00000000",
+    "firstName": "JORGE",
+    "lastName": "MAMANI GUARACHI"
+  },
+  {
+    "code": "0227",
+    "CI": "00000000",
+    "firstName": "HERIBERTO",
+    "lastName": "QUENA QUENAYA"
+  },
+  {
+    "code": "0228",
+    "CI": "00000000",
+    "firstName": "CREMALDINA",
+    "lastName": "ESCALERA SOLIZ"
+  },
+  {
+    "code": "0229",
+    "CI": "00000000",
+    "firstName": "VERONICA",
+    "lastName": "MAMANI ZARATE"
+  },
+  {
+    "code": "0230",
+    "CI": "00000000",
+    "firstName": "ISIDORA",
+    "lastName": "ROJAS"
+  },
+  {
+    "code": "0231",
+    "CI": "00000000",
+    "firstName": "EDWIN",
+    "lastName": "CHOQUE COLORADO"
+  },
+  {
+    "code": "0232",
+    "CI": "00000000",
+    "firstName": "LUCIA",
+    "lastName": "HUARANCA TANCARA"
+  },
+  {
+    "code": "0233",
+    "CI": "00000000",
+    "firstName": "MANUEL OSCAR",
+    "lastName": "BUSTAMANTE SURITTA"
+  },
+  {
+    "code": "0234",
+    "CI": "00000000",
+    "firstName": "AGUSTIN",
+    "lastName": "CHOCOTEA CALA"
+  },
+  {
+    "code": "0235",
+    "CI": "00000000",
+    "firstName": "TIBURCIO",
+    "lastName": "APAZA CHAMBI"
+  },
+  {
+    "code": "0236",
+    "CI": "00000000",
+    "firstName": "MARTHA",
+    "lastName": "QUILLA COLQUE"
+  },
+  {
+    "code": "0237",
+    "CI": "00000000",
+    "firstName": "BENANCIO",
+    "lastName": "CHOQUE SUTIRI"
+  },
+  {
+    "code": "0238",
+    "CI": "00000000",
+    "firstName": "PAULINO",
+    "lastName": "VERA QUISPE"
+  },
+  {
+    "code": "0239",
+    "CI": "00000000",
+    "firstName": "JAVIER",
+    "lastName": "LANCEA COCA"
+  },
+  {
+    "code": "0240",
+    "CI": "00000000",
+    "firstName": "NELLY",
+    "lastName": "RIOS SAIRE"
+  },
+  {
+    "code": "0241",
+    "CI": "00000000",
+    "firstName": "ALVINA",
+    "lastName": "FERNANDES REYES"
+  },
+  {
+    "code": "0242",
+    "CI": "00000000",
+    "firstName": "DELIA",
+    "lastName": "PACO CHOQUE"
+  },
+  {
+    "code": "0243",
+    "CI": "00000000",
+    "firstName": "JUSTINA",
+    "lastName": "JANCO MAMANI"
+  },
+  {
+    "code": "0244",
+    "CI": "00000000",
+    "firstName": "MARCELINA",
+    "lastName": "JANCO VELASCO"
+  },
+  {
+    "code": "0245",
+    "CI": "00000000",
+    "firstName": "MARIA ESTHER",
+    "lastName": "RIOS GUTIERREZ"
+  },
+  {
+    "code": "0246",
+    "CI": "00000000",
+    "firstName": "LAUREANO",
+    "lastName": "CASTRO AMBROCIO"
+  },
+  {
+    "code": "0247",
+    "CI": "00000000",
+    "firstName": "MARIO",
+    "lastName": "RUEDA CASERES"
+  },
+  {
+    "code": "0248",
+    "CI": "00000000",
+    "firstName": "JUAN",
+    "lastName": "MAMANI CONDORI"
+  },
+  {
+    "code": "0249",
+    "CI": "00000000",
+    "firstName": "MARIA TERESA",
+    "lastName": "GABRIEL ANDIA"
+  },
+  {
+    "code": "0250",
+    "CI": "00000000",
+    "firstName": "PEDRO",
+    "lastName": "TOLA VELTRAN"
+  },
+  {
+    "code": "0251",
+    "CI": "00000000",
+    "firstName": "RENE EDUARDO",
+    "lastName": "SUNTURA FERNANDEZ"
+  },
+  {
+    "code": "0252",
+    "CI": "00000000",
+    "firstName": "BERNARDINO",
+    "lastName": "CRESPO APAZA"
+  },
+  {
+    "code": "0253",
+    "CI": "00000000",
+    "firstName": "LINBERTH",
+    "lastName": "ROJAS AYALA"
+  },
+  {
+    "code": "0254",
+    "CI": "00000000",
+    "firstName": "FELIPE",
+    "lastName": "AGUILAR PADILLA"
+  },
+  {
+    "code": "0255",
+    "CI": "00000000",
+    "firstName": "ZENON",
+    "lastName": "CHAMBI CABEZAS"
+  },
+  {
+    "code": "0256",
+    "CI": "00000000",
+    "firstName": "FELIX",
+    "lastName": "GONSALEZ JURADO"
+  },
+  {
+    "code": "0257",
+    "CI": "00000000",
+    "firstName": "ANASTACIO",
+    "lastName": "PUMA CHAMBI"
+  },
+  {
+    "code": "0258",
+    "CI": "00000000",
+    "firstName": "BENITO",
+    "lastName": "HERBAS MAMANI"
+  },
+  {
+    "code": "0259",
+    "CI": "00000000",
+    "firstName": "MANUEL",
+    "lastName": "POMA SARATE"
+  },
+  {
+    "code": "0260",
+    "CI": "00000000",
+    "firstName": "EMILIANA",
+    "lastName": "NICOLAS DE JANCO"
+  },
+  {
+    "code": "0261",
+    "CI": "00000000",
+    "firstName": "LINBERT JUAN",
+    "lastName": "GONSALES MEDRANO"
+  },
+  {
+    "code": "0262",
+    "CI": "00000000",
+    "firstName": "DIONICIO CLEMENTE",
+    "lastName": "CAPO"
+  },
+  {
+    "code": "0263",
+    "CI": "00000000",
+    "firstName": "MARTA",
+    "lastName": "REINAGA LEON"
+  },
+  {
+    "code": "0264",
+    "CI": "00000000",
+    "firstName": "JULIAN",
+    "lastName": "COPATITI NINA"
+  },
+  {
+    "code": "0265",
+    "CI": "00000000",
+    "firstName": "HENRY",
+    "lastName": "CHALLAPA COPA"
+  },
+  {
+    "code": "0266",
+    "CI": "00000000",
+    "firstName": "VIRGINIA",
+    "lastName": "FERNANDEZ MAMANI"
+  },
+  {
+    "code": "0267",
+    "CI": "00000000",
+    "firstName": "SALOMN",
+    "lastName": "HURTADO LA FUENTE"
+  },
+  {
+    "code": "0268",
+    "CI": "00000000",
+    "firstName": "PABLO",
+    "lastName": "JUAREZ VARGAS"
+  },
+  {
+    "code": "0269",
+    "CI": "00000000",
+    "firstName": "WILLIAM JAIRO",
+    "lastName": "JUANIQUINA QUISPE"
+  },
+  {
+    "code": "0270",
+    "CI": "00000000",
+    "firstName": "MARCO ANTONIO",
+    "lastName": "LARA QUISPE"
+  },
+  {
+    "code": "0271",
+    "CI": "00000000",
+    "firstName": "FELISA BERNARDINA",
+    "lastName": "GUTIERREZ"
+  },
+  {
+    "code": "0272",
+    "CI": "00000000",
+    "firstName": "OTB",
+    "lastName": "CALAMA ABAROA"
+  },
+  {
+    "code": "0273",
+    "CI": "00000000",
+    "firstName": "WILFORD",
+    "lastName": "VARGAS FERNANDEZ"
+  },
+  {
+    "code": "0274",
+    "CI": "00000000",
+    "firstName": "JHONNY",
+    "lastName": "CLAROS PARRA"
+  },
+  {
+    "code": "0275",
+    "CI": "00000000",
+    "firstName": "JHONNY",
+    "lastName": "QUILLCA CRESPO"
+  },
+  {
+    "code": "0276",
+    "CI": "00000000",
+    "firstName": "ADRIANA",
+    "lastName": "ESCALERA DE TERAN"
+  },
+  {
+    "code": "0277",
+    "CI": "00000000",
+    "firstName": "WILMA",
+    "lastName": "CONDORI RODRIGUEZ"
+  },
+  {
+    "code": "0278",
+    "CI": "00000000",
+    "firstName": "ELEUTERIA",
+    "lastName": "RAMOS DE CRUZ"
+  },
+  {
+    "code": "0279",
+    "CI": "00000000",
+    "firstName": "FELIPE",
+    "lastName": "ALEGRE GAMBOA"
+  },
+  {
+    "code": "0280",
+    "CI": "00000000",
+    "firstName": "DANIEL",
+    "lastName": "SARABIA SOTO"
+  },
+  {
+    "code": "0281",
+    "CI": "00000000",
+    "firstName": "WALTER",
+    "lastName": "BAUTISTA CALLISAYA"
+  },
+  {
+    "code": "0282",
+    "CI": "00000000",
+    "firstName": "MARIA LUISA",
+    "lastName": "TAPIA ARTEAGA"
+  },
+  {
+    "code": "0283",
+    "CI": "00000000",
+    "firstName": "MAURO",
+    "lastName": "CHACA HUACANCHI"
+  },
+  {
+    "code": "0284",
+    "CI": "00000000",
+    "firstName": "REMIGIO",
+    "lastName": "COCA QUISPE"
+  },
+  {
+    "code": "0285",
+    "CI": "00000000",
+    "firstName": "RUBEN",
+    "lastName": "GUTIRREZ FLORES"
+  },
+  {
+    "code": "0286",
+    "CI": "00000000",
+    "firstName": "VIRGILIO",
+    "lastName": "COCA OROSCO"
+  },
+  {
+    "code": "0287",
+    "CI": "00000000",
+    "firstName": "PAULINA",
+    "lastName": "FLORES DE RAMIRES"
+  },
+  {
+    "code": "0288",
+    "CI": "00000000",
+    "firstName": "JHOVANA",
+    "lastName": "URIA GRANDIDIER"
+  },
+  {
+    "code": "0289",
+    "CI": "00000000",
+    "firstName": "GALO",
+    "lastName": "CANAVIRI VILLCA"
+  },
+  {
+    "code": "0290",
+    "CI": "00000000",
+    "firstName": "FAUSTO",
+    "lastName": "ROSALES SANCHES"
+  },
+  {
+    "code": "0291",
+    "CI": "00000000",
+    "firstName": "FELICIDAD",
+    "lastName": "SOLIZ"
+  },
+  {
+    "code": "0292",
+    "CI": "00000000",
+    "firstName": "ELOY",
+    "lastName": "TAQUIRA QUIROGA"
+  },
+  {
+    "code": "0293",
+    "CI": "00000000",
+    "firstName": "ROMEO",
+    "lastName": "ALANCA CHAQUEÑO"
+  },
+  {
+    "code": "0294",
+    "CI": "00000000",
+    "firstName": "DULCE MARINA",
+    "lastName": "BIDET"
+  },
+  {
+    "code": "0295",
+    "CI": "00000000",
+    "firstName": "TANIA",
+    "lastName": "TORO QUISPE"
+  },
+  {
+    "code": "0296",
+    "CI": "00000000",
+    "firstName": "LUISA",
+    "lastName": "ROMERO RIVERA"
+  },
+  {
+    "code": "0297",
+    "CI": "00000000",
+    "firstName": "LILIA",
+    "lastName": "GUTIERREZ COSSIO"
+  },
+  {
+    "code": "0298",
+    "CI": "00000000",
+    "firstName": "PAOLA",
+    "lastName": "BAEZ POMA"
+  },
+  {
+    "code": "0299",
+    "CI": "00000000",
+    "firstName": "KARLA",
+    "lastName": "MAMANI HINOJOSA"
+  },
+  {
+    "code": "0300",
+    "CI": "00000000",
+    "firstName": "MARGARITA",
+    "lastName": "ARANA AZAQUIETA"
+  },
+
+  {
+    "code": "0301",
+    "CI": "00000000",
+    "firstName": "CRISPIN",
+    "lastName": "HUALLPA CHOQUERIVE"
+  },
+  {
+    "code": "0302",
+    "CI": "00000000",
+    "firstName": "CASIANO",
+    "lastName": "LEON SIMON"
+  },
+  {
+    "code": "0303",
+    "CI": "00000000",
+    "firstName": "IGLESIA PENTECOSTAL",
+    "lastName": ""
+  },
+  {
+    "code": "0304",
+    "CI": "00000000",
+    "firstName": "GENARO JORGE",
+    "lastName": "PEREZ"
+  },
+  {
+    "code": "0305",
+    "CI": "00000000",
+    "firstName": "FRANCISCO",
+    "lastName": "CAPARICONA HILARI"
+  },
+  {
+    "code": "0306",
+    "CI": "00000000",
+    "firstName": "TEODORO CARLOS",
+    "lastName": "CALLEJAS GUSMAN"
+  },
+  {
+    "code": "0307",
+    "CI": "00000000",
+    "firstName": "FELIX",
+    "lastName": "VILLAROEL"
+  },
+  {
+    "code": "0308",
+    "CI": "00000000",
+    "firstName": "PEDRO",
+    "lastName": "VALDEZ MAMANI"
+  },
+  {
+    "code": "0309",
+    "CI": "00000000",
+    "firstName": "ROSMERY",
+    "lastName": "CHOQUE SOLIZ"
+  },
+  {
+    "code": "0310",
+    "CI": "00000000",
+    "firstName": "FREDDY",
+    "lastName": "CHOQUE SOLIZ"
+  },
+  {
+    "code": "0311",
+    "CI": "00000000",
+    "firstName": "GUSTAVO",
+    "lastName": "QUIROS BERRIOS"
+  },
+  {
+    "code": "0312",
+    "CI": "00000000",
+    "firstName": "SECCION",
+    "lastName": "PELUQUERIA"
+  },
+  {
+    "code": "0313",
+    "CI": "00000000",
+    "firstName": "IGLESIA DIOS ES AMOR",
+    "lastName": "UCE"
+  },
+  {
+    "code": "0314",
+    "CI": "00000000",
+    "firstName": "ELENA",
+    "lastName": "CHIPANA CRUZ"
+  },
+  {
+    "code": "0315",
+    "CI": "00000000",
+    "firstName": "PEDRO ADRIAN",
+    "lastName": "ESCALERA CASERES"
+  },
+  {
+    "code": "0316",
+    "CI": "00000000",
+    "firstName": "GROVER",
+    "lastName": "CANAVIRI VELIZ"
+  },
+  {
+    "code": "0317",
+    "CI": "00000000",
+    "firstName": "RICHARD",
+    "lastName": "ROMERO JUARES"
+  },
+  {
+    "code": "0318",
+    "CI": "00000000",
+    "firstName": "LEONARDO",
+    "lastName": "AIZA HUARACHI"
+  },
+  {
+    "code": "0319",
+    "CI": "00000000",
+    "firstName": "SINFOROSO",
+    "lastName": "PICACHURI CALLUNI"
+  },
+  {
+    "code": "0320",
+    "CI": "00000000",
+    "firstName": "ANGEL",
+    "lastName": "HUARACHI QUISPE"
+  },
+  {
+    "code": "0321",
+    "CI": "00000000",
+    "firstName": "ROBERTA",
+    "lastName": "ALMANZA ALVAREZ"
+  },
+  {
+    "code": "0322",
+    "CI": "00000000",
+    "firstName": "MAMERTO",
+    "lastName": "ORTEGA SERVANTES"
+  },
+  {
+    "code": "0323",
+    "CI": "00000000",
+    "firstName": "DEMETRIO",
+    "lastName": "MENDOZA AGUILAR"
+  },
+  {
+    "code": "0324",
+    "CI": "00000000",
+    "firstName": "GUMERSINDA",
+    "lastName": "QUENTA"
+  },
+  {
+    "code": "0325",
+    "CI": "00000000",
+    "firstName": "CLAUDINA",
+    "lastName": "MAMANI FELIPE"
+  },
+  {
+    "code": "0326",
+    "CI": "00000000",
+    "firstName": "ELSA",
+    "lastName": "HUIZA ROSALES DE MAMANI"
+  },
+  {
+    "code": "0327",
+    "CI": "00000000",
+    "firstName": "FEBE PRISILA",
+    "lastName": "FLORES LIZETE"
+  },
+  {
+    "code": "0328",
+    "CI": "00000000",
+    "firstName": "MARIO",
+    "lastName": "FERNANDEZ MAMANI"
+  },
+  {
+    "code": "0329",
+    "CI": "00000000",
+    "firstName": "AGUSTIN",
+    "lastName": "COPA AMARU B"
+  },
+  {
+    "code": "0330",
+    "CI": "00000000",
+    "firstName": "WEIMAR MAGIN",
+    "lastName": "OLMEDO BALVIN"
+  },
+  {
+    "code": "0331",
+    "CI": "00000000",
+    "firstName": "DAVID",
+    "lastName": "NINA VILLCA"
+  },
+  {
+    "code": "0332",
+    "CI": "00000000",
+    "firstName": "BEATRIZ",
+    "lastName": "JANCO NICOLAS"
+  },
+  {
+    "code": "0333",
+    "CI": "00000000",
+    "firstName": "RUT",
+    "lastName": "CONDORI RODRIGUEZ"
+  },
+  {
+    "code": "0334",
+    "CI": "00000000",
+    "firstName": "YANEHT ESTER",
+    "lastName": "CONDORI RODRIGUEZ"
+  },
+  {
+    "code": "0335",
+    "CI": "00000000",
+    "firstName": "DAVID",
+    "lastName": "HUAYGUA"
+  },
+  {
+    "code": "0336",
+    "CI": "00000000",
+    "firstName": "SEBASTIANA",
+    "lastName": "ESPINOZA GARCIA DE PEÑALOZA"
+  },
+  {
+    "code": "0337",
+    "CI": "00000000",
+    "firstName": "ALFREDO",
+    "lastName": "NINA PEREZ"
+  },
+  {
+    "code": "0338",
+    "CI": "00000000",
+    "firstName": "ELIZABET",
+    "lastName": "COLQUE FLORES"
+  },
+  {
+    "code": "0339",
+    "CI": "00000000",
+    "firstName": "SAMUEL",
+    "lastName": "MARCA QUISPE"
+  },
+  {
+    "code": "0340",
+    "CI": "00000000",
+    "firstName": "CARLOTA",
+    "lastName": "RUEDA CACERES"
+  },
+  {
+    "code": "0341",
+    "CI": "00000000",
+    "firstName": "MARIA JIMENA",
+    "lastName": "COLQUE JIMENEZ"
+  },
+  {
+    "code": "0342",
+    "CI": "00000000",
+    "firstName": "MARINA",
+    "lastName": "RUIZ DE BAUTISTA"
+  },
+  {
+    "code": "0343",
+    "CI": "00000000",
+    "firstName": "NESTOR",
+    "lastName": "ALEGRE ESCALERA"
+  },
+  {
+    "code": "0344",
+    "CI": "00000000",
+    "firstName": "GENARO RUBEN",
+    "lastName": "MARCA QUISPE"
+  },
+  {
+    "code": "0345",
+    "CI": "00000000",
+    "firstName": "SINFOROSA",
+    "lastName": "MAMANI ORTEGA"
+  },
+  {
+    "code": "0346",
+    "CI": "00000000",
+    "firstName": "ELOY ANDRES",
+    "lastName": "CORPUS RAMIREZ"
+  },
+  {
+    "code": "0347",
+    "CI": "00000000",
+    "firstName": "BACILIA",
+    "lastName": "TAPIA DE YAVI"
+  },
+  {
+    "code": "0348",
+    "CI": "00000000",
+    "firstName": "MARIO",
+    "lastName": "CABALLERO DIAZ"
+  },
+  {
+    "code": "0349",
+    "CI": "00000000",
+    "firstName": "SAUL FERMIN",
+    "lastName": "TORREZ"
+  },
+  {
+    "code": "0350",
+    "CI": "00000000",
+    "firstName": "LUISA",
+    "lastName": "BELTRAN DE CHALLAPA"
+  },
+  {
+    "code": "0351",
+    "CI": "00000000",
+    "firstName": "ELIZABET",
+    "lastName": "MOSQUERA PONCE"
+  },
+  {
+    "code": "0352",
+    "CI": "00000000",
+    "firstName": "OLEGARIA",
+    "lastName": "CHOQUE ESTALLA"
+  },
+  {
+    "code": "0353",
+    "CI": "00000000",
+    "firstName": "JOSE",
+    "lastName": "CHOQUE ROMAY"
+  },
+  {
+    "code": "0354",
+    "CI": "00000000",
+    "firstName": "ULISES SILVESTRE",
+    "lastName": "TORREZ MOSCOSO"
+  },
+  {
+    "code": "0355",
+    "CI": "00000000",
+    "firstName": "CATALINA",
+    "lastName": "QUENA QUENAYA"
+  },
+  {
+    "code": "0356",
+    "CI": "00000000",
+    "firstName": "JUANES ELISMAN",
+    "lastName": "FLORES"
+  },
+  {
+    "code": "0357",
+    "CI": "00000000",
+    "firstName": "LEONARDO",
+    "lastName": "CONDORI MAMANI"
+  },
+  {
+    "code": "0358",
+    "CI": "00000000",
+    "firstName": "WILSON",
+    "lastName": "LUCAS GUTIERREZ"
+  },
+  {
+    "code": "0359",
+    "CI": "00000000",
+    "firstName": "TEODORI",
+    "lastName": "LAZO COCA"
+  },
+  {
+    "code": "0360",
+    "CI": "00000000",
+    "firstName": "PITER SANDRO",
+    "lastName": "LAZO MONTAÑO"
+  },
+  {
+    "code": "0361",
+    "CI": "00000000",
+    "firstName": "GERMAN",
+    "lastName": "NINA FLORES"
+  },
+  {
+    "code": "0362",
+    "CI": "00000000",
+    "firstName": "BERNABE",
+    "lastName": "MICHAGA COPATITI"
+  },
+  {
+    "code": "0363",
+    "CI": "00000000",
+    "firstName": "ANGEL",
+    "lastName": "DIAZ ENRIQUE"
+  },
+  {
+    "code": "0364",
+    "CI": "00000000",
+    "firstName": "ARMANDO EDGAR",
+    "lastName": "COPALI SUTURI"
+  },
+  {
+    "code": "0365",
+    "CI": "00000000",
+    "firstName": "SEVERINA LUPE",
+    "lastName": "BAUTISTA DE MARCANI"
+  },
+  {
+    "code": "0366",
+    "CI": "00000000",
+    "firstName": "JOSE EGBERTO",
+    "lastName": "VILLCA INIGUEZ"
+  },
+  {
+    "code": "0367",
+    "CI": "00000000",
+    "firstName": "ANTONIO",
+    "lastName": "AGUILAR CHOQUE"
+  },
+  {
+    "code": "0368",
+    "CI": "00000000",
+    "firstName": "HILARIA",
+    "lastName": "ESCALERA DE ALEGRE"
+  },
+  {
+    "code": "0369",
+    "CI": "00000000",
+    "firstName": "PEDRO ALVARES",
+    "lastName": "HUANCA B"
+  },
+  {
+    "code": "0370",
+    "CI": "00000000",
+    "firstName": "NORA MARTHA",
+    "lastName": "PACO MAMANI"
+  },
+  {
+    "code": "0371",
+    "CI": "00000000",
+    "firstName": "IRENEO",
+    "lastName": "VARGAS CHOQUE"
+  },
+  {
+    "code": "0372",
+    "CI": "00000000",
+    "firstName": "VIRGILIO",
+    "lastName": "AGUILAR CHILA"
+  },
+  {
+    "code": "0373",
+    "CI": "00000000",
+    "firstName": "BENEDICTA",
+    "lastName": "FERNANDEZ CONDORI"
+  },
+  {
+    "code": "0374",
+    "CI": "00000000",
+    "firstName": "OCTAVIO",
+    "lastName": "CHALLAPA CHOQUE"
+  },
+  {
+    "code": "0375",
+    "CI": "00000000",
+    "firstName": "MARTHA",
+    "lastName": "JAVIER YARHUI"
+  },
+  {
+    "code": "0376",
+    "CI": "00000000",
+    "firstName": "ANGEL",
+    "lastName": "BARCAYA VIRACA"
+  },
+  {
+    "code": "0377",
+    "CI": "00000000",
+    "firstName": "FREDDY ANDRES",
+    "lastName": "OCAMPO PAREDES"
+  },
+  {
+    "code": "0378",
+    "CI": "00000000",
+    "firstName": "IGLESIA DE LA PROFECIA",
+    "lastName": "0 0"
+  },
+  {
+    "code": "0379",
+    "CI": "00000000",
+    "firstName": "ROBERTO LORENZO",
+    "lastName": "FAMILIA"
+  },
+  {
+    "code": "0380",
+    "CI": "00000000",
+    "firstName": "LIZBETH",
+    "lastName": "LIENDRO CHAMBI"
+  },
+  {
+    "code": "0381",
+    "CI": "00000000",
+    "firstName": "RONALD",
+    "lastName": "RICALDEZ CHURA"
+  },
+  {
+    "code": "0382",
+    "CI": "00000000",
+    "firstName": "ELIO FERNANDO",
+    "lastName": "MAMANI MAYTA"
+  },
+  {
+    "code": "0383",
+    "CI": "00000000",
+    "firstName": "MARGARITA",
+    "lastName": "CUIZARA YAVIRA"
+  },
+  {
+    "code": "0384",
+    "CI": "00000000",
+    "firstName": "MATILDE",
+    "lastName": "OPORTO MIRANDA VDA. DE OJEDA"
+  },
+  {
+    "code": "0385",
+    "CI": "00000000",
+    "firstName": "MARIA EUGENIA",
+    "lastName": "CLAROS KALUCHO"
+  },
+  {
+    "code": "0386",
+    "CI": "00000000",
+    "firstName": "SAMUEL",
+    "lastName": "MAMANI MAMANI"
+  },
+  {
+    "code": "0387",
+    "CI": "00000000",
+    "firstName": "ROSA",
+    "lastName": "HERRERA FIGUEREDO"
+  },
+  {
+    "code": "0388",
+    "CI": "00000000",
+    "firstName": "CIRILO",
+    "lastName": "MAMANI CHINO"
+  },
+  {
+    "code": "0389",
+    "CI": "00000000",
+    "firstName": "JULIO",
+    "lastName": "ALANES TORRICO"
+  },
+  {
+    "code": "0390",
+    "CI": "00000000",
+    "firstName": "ELIZABETH",
+    "lastName": "CALATAYUD CHAVEZ"
+  },
+  {
+    "code": "0391",
+    "CI": "00000000",
+    "firstName": "U. E. PATRIA NUEVA",
+    "lastName": ""
+  },
+  {
+    "code": "0392",
+    "CI": "00000000",
+    "firstName": "GLORIA FATIMA",
+    "lastName": "QUELCA RICALDIS"
+  },
+  {
+    "code": "0393",
+    "CI": "00000000",
+    "firstName": "GERARDO",
+    "lastName": "COAQUIRA LOPEZ"
+  },
+  {
+    "code": "0394",
+    "CI": "00000000",
+    "firstName": "PEDRO",
+    "lastName": "TORRICO LEON"
+  },
+  {
+    "code": "0395",
+    "CI": "00000000",
+    "firstName": "TOMASA MIRIAM",
+    "lastName": "RUBIN DE CELIS MOLINA"
+  },
+  {
+    "code": "0396",
+    "CI": "00000000",
+    "firstName": "CRISTOBAL",
+    "lastName": "NINA CALLE"
+  },
+  {
+    "code": "0397",
+    "CI": "00000000",
+    "firstName": "ROSA",
+    "lastName": "SOTO MAMANI"
+  },
+  {
+    "code": "0398",
+    "CI": "00000000",
+    "firstName": "PASCUAL",
+    "lastName": "ESCALERA FELIPEZ"
+  },
+  {
+    "code": "0399",
+    "CI": "00000000",
+    "firstName": "RODOLFO",
+    "lastName": "RAMOS PACA"
+  },
+  {
+    "code": "0400",
+    "CI": "00000000",
+    "firstName": "VIVIANA",
+    "lastName": "RAFAEL QUENA"
+  },
+
+  {
+    "code": "0401",
+    "CI": "00000000",
+    "firstName": "MARLENY MILCA",
+    "lastName": "TITO MARAZ"
+  },
+  {
+    "code": "0402",
+    "CI": "00000000",
+    "firstName": "REYNALDO",
+    "lastName": "PILLCO MAMANI"
+  },
+  {
+    "code": "0403",
+    "CI": "00000000",
+    "firstName": "SABINA",
+    "lastName": "MORA de AYALA"
+  },
+  {
+    "code": "0404",
+    "CI": "00000000",
+    "firstName": "MIRIAM",
+    "lastName": "ARIAS DELGADO"
+  },
+  {
+    "code": "0405",
+    "CI": "00000000",
+    "firstName": "SABINA",
+    "lastName": "GARCIA DE BOHORQUEZ"
+  },
+  {
+    "code": "0406",
+    "CI": "00000000",
+    "firstName": "MARI LUZ",
+    "lastName": "CRUZ FLORES"
+  },
+  {
+    "code": "0407",
+    "CI": "00000000",
+    "firstName": "BELEN",
+    "lastName": "CAYO VILLEGAS"
+  },
+  {
+    "code": "0408",
+    "CI": "00000000",
+    "firstName": "MAXIMA",
+    "lastName": "CHOQUE ROMERO"
+  },
+  {
+    "code": "0409",
+    "CI": "00000000",
+    "firstName": "NELCY",
+    "lastName": "LAZO MONTAÑO"
+  },
+  {
+    "code": "0410",
+    "CI": "00000000",
+    "firstName": "EDDY JORGE",
+    "lastName": "ALBA COCA"
+  },
+  {
+    "code": "0411",
+    "CI": "00000000",
+    "firstName": "LIMBER FIDEL",
+    "lastName": "CHOQUE APAZA"
+  },
+  {
+    "code": "0412",
+    "CI": "00000000",
+    "firstName": "FREDY",
+    "lastName": "ESCALERA ALEGRE"
+  },
+  {
+    "code": "0413",
+    "CI": "00000000",
+    "firstName": "ALICIA",
+    "lastName": "SILES SOTO de FLORES"
+  },
+  {
+    "code": "0414",
+    "CI": "00000000",
+    "firstName": "DAYNE",
+    "lastName": "HURTADO LAZO"
+  },
+  {
+    "code": "0415",
+    "CI": "00000000",
+    "firstName": "SABINA",
+    "lastName": "PACHECO CALLE de MAMANI"
+  },
+  {
+    "code": "0416",
+    "CI": "00000000",
+    "firstName": "FAUSTO",
+    "lastName": "CHURA ACARAPI"
+  },
+  {
+    "code": "0417",
+    "CI": "00000000",
+    "firstName": "ROSE MARY",
+    "lastName": "HURTADO LAZO"
+  },
+  {
+    "code": "0418",
+    "CI": "00000000",
+    "firstName": "ALFREDO",
+    "lastName": "OTALORA DELGADO"
+  },
+  {
+    "code": "0419",
+    "CI": "00000000",
+    "firstName": "ROSENDO",
+    "lastName": "HUANCA LLUTA"
+  },
+  {
+    "code": "0420",
+    "CI": "00000000",
+    "firstName": "JULIA",
+    "lastName": "COPA MORATO"
+  },
+  {
+    "code": "0421",
+    "CI": "00000000",
+    "firstName": "ELVIRA",
+    "lastName": "CARICARI MAMANI DE CASTRO"
+  },
+  {
+    "code": "0422",
+    "CI": "00000000",
+    "firstName": "ADELA",
+    "lastName": "CALIZAYA DE CASTRO"
+  },
+  {
+    "code": "0423",
+    "CI": "00000000",
+    "firstName": "ADOLFO",
+    "lastName": "SERRUDO SORAIDE"
+  },
+  {
+    "code": "0424",
+    "CI": "00000000",
+    "firstName": "GIOVANA",
+    "lastName": "MIRANDA COCA"
+  },
+  {
+    "code": "0425",
+    "CI": "00000000",
+    "firstName": "MODESTO",
+    "lastName": "TORIBIO PATY"
+  },
+  {
+    "code": "0426",
+    "CI": "00000000",
+    "firstName": "SABINO WILFREDO",
+    "lastName": "VALENCIA CHOQUE"
+  },
+  {
+    "code": "0427",
+    "CI": "00000000",
+    "firstName": "ELSA",
+    "lastName": "RAMOS CHIPANA"
+  },
+  {
+    "code": "0428",
+    "CI": "00000000",
+    "firstName": "PETRONA",
+    "lastName": "MAMANI CHIPANA"
+  },
+  {
+    "code": "0429",
+    "CI": "00000000",
+    "firstName": "DEITER",
+    "lastName": "ALVARADO PACO"
+  },
+  {
+    "code": "0430",
+    "CI": "00000000",
+    "firstName": "EUSEBIO",
+    "lastName": "BALLESTERO CUIZARA"
+  },
+  {
+    "code": "0431",
+    "CI": "00000000",
+    "firstName": "EMILIO",
+    "lastName": "COCA PEREZ"
+  },
+  {
+    "code": "0432",
+    "CI": "00000000",
+    "firstName": "CINTHYA",
+    "lastName": "ALAVE TOCOCARI"
+  },
+  {
+    "code": "0433",
+    "CI": "00000000",
+    "firstName": "SANTIAGO",
+    "lastName": "CRUZ VILLCA"
+  },
+  {
+    "code": "0434",
+    "CI": "00000000",
+    "firstName": "PEDRO",
+    "lastName": "RAMOS ESPINOZA"
+  },
+  {
+    "code": "0435",
+    "CI": "00000000",
+    "firstName": "JUAN JOSE",
+    "lastName": "CACHI MURILLO"
+  },
+  {
+    "code": "0436",
+    "CI": "00000000",
+    "firstName": "TEOFILO",
+    "lastName": "PERALTA LINO"
+  },
+  {
+    "code": "0437",
+    "CI": "00000000",
+    "firstName": "SATURNINO",
+    "lastName": "NINA CALLE"
+  },
+  {
+    "code": "0438",
+    "CI": "00000000",
+    "firstName": "OSCAR DANIEL",
+    "lastName": "SERRANO TORRICO"
+  },
+  {
+    "code": "0439",
+    "CI": "00000000",
+    "firstName": "MARIA INES",
+    "lastName": "MOSCOSO ESPINOZA"
+  },
+  {
+    "code": "0440",
+    "CI": "00000000",
+    "firstName": "ARMANDO",
+    "lastName": "HUAYHUA JAITA"
+  },
+  {
+    "code": "0441",
+    "CI": "00000000",
+    "firstName": "JUAN",
+    "lastName": "CASTRO MARTINEZ"
+  },
+  {
+    "code": "0442",
+    "CI": "00000000",
+    "firstName": "PANFILO",
+    "lastName": "OLIVERA LINARES"
+  },
+  {
+    "code": "0443",
+    "CI": "00000000",
+    "firstName": "CEFERINO",
+    "lastName": "JARANDILLA COILLO"
+  },
+  {
+    "code": "0444",
+    "CI": "00000000",
+    "firstName": "LIDIA BEATRIZ",
+    "lastName": "PACO FELIPE"
+  },
+  {
+    "code": "0445",
+    "CI": "00000000",
+    "firstName": "AGUSTINA",
+    "lastName": "CHAJMI CHOQUE"
+  },
+  {
+    "code": "0446",
+    "CI": "00000000",
+    "firstName": "LUISA",
+    "lastName": "RODRIGUEZ MONTAÑO"
+  },
+  {
+    "code": "0447",
+    "CI": "00000000",
+    "firstName": "LUCIA",
+    "lastName": "SANDOVAL MENESES"
+  },
+  {
+    "code": "0448",
+    "CI": "00000000",
+    "firstName": "DOLORES",
+    "lastName": "CHOQUE POMA"
+  },
+  {
+    "code": "0449",
+    "CI": "00000000",
+    "firstName": "WALTER",
+    "lastName": "CANAVIRI CHINO"
+  },
+  {
+    "code": "0450",
+    "CI": "00000000",
+    "firstName": "HERMOGENES",
+    "lastName": "CACERES MALDONADO"
+  },
+  {
+    "code": "0451",
+    "CI": "00000000",
+    "firstName": "DAVID",
+    "lastName": "ZURITA GUZMAN"
+  },
+  {
+    "code": "0452",
+    "CI": "00000000",
+    "firstName": "NICOLAS",
+    "lastName": "CONDORI YANA"
+  },
+  {
+    "code": "0453",
+    "CI": "00000000",
+    "firstName": "ANTONIA",
+    "lastName": "PEREZ MAMANI"
+  },
+  {
+    "code": "0454",
+    "CI": "00000000",
+    "firstName": "JAIME",
+    "lastName": "ROMERO RAMIREZ"
+  },
+  {
+    "code": "0455",
+    "CI": "00000000",
+    "firstName": "MARINA",
+    "lastName": "CAMACHO RICALDEZ"
+  },
+  {
+    "code": "0456",
+    "CI": "00000000",
+    "firstName": "FELISA",
+    "lastName": "MAMANI DE FLORES"
+  },
+  {
+    "code": "0457",
+    "CI": "00000000",
+    "firstName": "CRISPIN",
+    "lastName": "COCA CALVI"
+  },
+  {
+    "code": "0458",
+    "CI": "00000000",
+    "firstName": "DELFIN",
+    "lastName": "AGUILAR CAIPA"
+  },
+  {
+    "code": "0459",
+    "CI": "00000000",
+    "firstName": "ROBERTO",
+    "lastName": "QUISPE ARO"
+  },
+  {
+    "code": "0460",
+    "CI": "00000000",
+    "firstName": "ELISA",
+    "lastName": "QUISPE MIRANDA"
+  },
+  {
+    "code": "0461",
+    "CI": "00000000",
+    "firstName": "SUSANA",
+    "lastName": "PACO FELIPE"
+  },
+  {
+    "code": "0462",
+    "CI": "00000000",
+    "firstName": "VALERIANA",
+    "lastName": "LUCAS LOTRIGO"
+  },
+  {
+    "code": "0463",
+    "CI": "00000000",
+    "firstName": "JAMES YOTAN",
+    "lastName": "YAVE SAMBRANA"
+  },
+  {
+    "code": "0464",
+    "CI": "00000000",
+    "firstName": "LISBETH",
+    "lastName": "VALLEJOS CHACA"
+  },
+  {
+    "code": "0465",
+    "CI": "00000000",
+    "firstName": "CELIA",
+    "lastName": "SOTO COCA"
+  },
+  {
+    "code": "0466",
+    "CI": "00000000",
+    "firstName": "CELINA",
+    "lastName": "ROSALES DE QUISPE"
+  },
+  {
+    "code": "0467",
+    "CI": "00000000",
+    "firstName": "SERAFIN",
+    "lastName": "SIMON CALLATA"
+  },
+  {
+    "code": "0468",
+    "CI": "00000000",
+    "firstName": "ZENOBIA",
+    "lastName": "IGNACIO FERNANDEZ"
+  },
+  {
+    "code": "0469",
+    "CI": "00000000",
+    "firstName": "SIMONA",
+    "lastName": "MARZANA CALLEJAS"
+  },
+  {
+    "code": "0470",
+    "CI": "00000000",
+    "firstName": "APARICIO RAFAEL",
+    "lastName": "QUENA"
+  },
+  {
+    "code": "0471",
+    "CI": "00000000",
+    "firstName": "ALFREDO",
+    "lastName": "ARUNI AUCA"
+  },
+  {
+    "code": "0472",
+    "CI": "00000000",
+    "firstName": "GUALBERTA",
+    "lastName": "SARABIA COCA"
+  },
+  {
+    "code": "0473",
+    "CI": "00000000",
+    "firstName": "DELFIN",
+    "lastName": "CALLEJAS GUZMAN"
+  },
+  {
+    "code": "0474",
+    "CI": "00000000",
+    "firstName": "RICHARD",
+    "lastName": "MEDRANO LAZO"
+  },
+  {
+    "code": "0475",
+    "CI": "00000000",
+    "firstName": "MARIA WENDY",
+    "lastName": "CALIZAYA QUISPE"
+  },
+  {
+    "code": "0476",
+    "CI": "00000000",
+    "firstName": "MARGARA",
+    "lastName": "CHOQUE CARICARI"
+  },
+  {
+    "code": "0477",
+    "CI": "00000000",
+    "firstName": "NORMA",
+    "lastName": "HERRERA"
+  },
+  {
+    "code": "0478",
+    "CI": "00000000",
+    "firstName": "REINA",
+    "lastName": "COPATITI HUANCA"
+  },
+  {
+    "code": "0479",
+    "CI": "00000000",
+    "firstName": "MARIO DEMETRIO",
+    "lastName": "ALEGRE COCA"
+  },
+  {
+    "code": "0480",
+    "CI": "00000000",
+    "firstName": "EDWIN",
+    "lastName": "CHOQUE RODRIGUEZ"
+  },
+  {
+    "code": "0481",
+    "CI": "00000000",
+    "firstName": "CARLOS",
+    "lastName": "TRONCOSO AMBROCIO"
+  },
+  {
+    "code": "0482",
+    "CI": "00000000",
+    "firstName": "AMILCAR CARLOS",
+    "lastName": "TITO MARAZ"
+  },
+  {
+    "code": "0483",
+    "CI": "00000000",
+    "firstName": "ALFREDO",
+    "lastName": "MAMANI PAREDIS"
+  },
+  {
+    "code": "0484",
+    "CI": "00000000",
+    "firstName": "SATURNINA",
+    "lastName": "CHOQUE ROMERO"
+  },
+  {
+    "code": "0485",
+    "CI": "00000000",
+    "firstName": "AGUSTIN",
+    "lastName": "MONTAÑO CHOQUE"
+  },
+  {
+    "code": "0486",
+    "CI": "00000000",
+    "firstName": "SOFIA",
+    "lastName": "ZARATE CANAVIRI"
+  },
+  {
+    "code": "0487",
+    "CI": "00000000",
+    "firstName": "AJEJANDRO MAURICIO",
+    "lastName": "QUENTA QUENTA"
+  },
+  {
+    "code": "0488",
+    "CI": "00000000",
+    "firstName": "HERNAN",
+    "lastName": "SOTO COCA"
+  },
+  {
+    "code": "0489",
+    "CI": "00000000",
+    "firstName": "LIDIA",
+    "lastName": "VARGAS JAIMES"
+  },
+  {
+    "code": "0490",
+    "CI": "00000000",
+    "firstName": "EDILBERTO SERGIO",
+    "lastName": "MAGNE HERRERA"
+  },
+  {
+    "code": "0491",
+    "CI": "00000000",
+    "firstName": "ZULMA",
+    "lastName": "NINA FLORES"
+  },
+
+  {
+    "code": "0492",
+    "CI": "00000000",
+    "firstName": "ARMANDO",
+    "lastName": "LAURA LAURA"
+  },
+  {
+    "code": "0493",
+    "CI": "00000000",
+    "firstName": "APOLINAR",
+    "lastName": "CORIA VENTURA"
+  },
+  {
+    "code": "0494",
+    "CI": "00000000",
+    "firstName": "TANIA",
+    "lastName": "PERALTA ARROYO"
+  },
+  {
+    "code": "0495",
+    "CI": "00000000",
+    "firstName": "CARLOTA",
+    "lastName": "VILLCA PUMA DE NINA"
+  },
+  {
+    "code": "0496",
+    "CI": "00000000",
+    "firstName": "DANIEL",
+    "lastName": "HUANACO CONDE"
+  },
+  {
+    "code": "0497",
+    "CI": "00000000",
+    "firstName": "PEDRO",
+    "lastName": "ZAMBRANA FLORES"
+  },
+  {
+    "code": "0498",
+    "CI": "00000000",
+    "firstName": "ROSA",
+    "lastName": "MEDRANO GUTIERREZ"
+  },
+  {
+    "code": "0499",
+    "CI": "00000000",
+    "firstName": "LUCIANA",
+    "lastName": "SOTERA ARUNI MAMANI"
+  },
+  {
+    "code": "0500",
+    "CI": "00000000",
+    "firstName": "JUAN",
+    "lastName": "CHOQUE COLORADO"
+  },
+  {
+    "code": "0501",
+    "CI": "00000000",
+    "firstName": "FRANCISCO",
+    "lastName": "SILES VILLA"
+  },
+  {
+    "code": "0502",
+    "CI": "00000000",
+    "firstName": "ZACARIAS",
+    "lastName": "ROJAS CHOQUE"
+  },
+  {
+    "code": "0503",
+    "CI": "00000000",
+    "firstName": "FILIBERTO",
+    "lastName": "COLQUE FLORES"
+  },
+  {
+    "code": "0504",
+    "CI": "00000000",
+    "firstName": "MARIA EUGENIA",
+    "lastName": "CHOQUE MAMANI"
+  },
+  {
+    "code": "0505",
+    "CI": "00000000",
+    "firstName": "MARIA",
+    "lastName": "FLORES ROMERO"
+  },
+  {
+    "code": "0506",
+    "CI": "00000000",
+    "firstName": "J. V.",
+    "lastName": "BOSQUE SUD"
+  },
+  {
+    "code": "0507",
+    "CI": "00000000",
+    "firstName": "JUANA",
+    "lastName": "CALLUNI ZARATE DE CHOCOTEA"
+  },
+  {
+    "code": "0508",
+    "CI": "00000000",
+    "firstName": "SONIA",
+    "lastName": "AYAVIRI APAZA"
+  },
+  {
+    "code": "0509",
+    "CI": "00000000",
+    "firstName": "REBECA RUTH",
+    "lastName": "PACO CALIZAYA"
+  },
+  {
+    "code": "0510",
+    "CI": "00000000",
+    "firstName": "GREGORIO",
+    "lastName": "ALA ALVAREZ"
+  },
+  {
+    "code": "0511",
+    "CI": "00000000",
+    "firstName": "RILER",
+    "lastName": "COPA OVANDO"
+  },
+  {
+    "code": "0512",
+    "CI": "00000000",
+    "firstName": "ELIZABETH",
+    "lastName": "MAMANI QUENA"
+  },
+  {
+    "code": "0513",
+    "CI": "00000000",
+    "firstName": "LUIS CARLOS",
+    "lastName": "CAPUMA AYAVIRI"
+  },
+  {
+    "code": "0514",
+    "CI": "00000000",
+    "firstName": "GRACIELA",
+    "lastName": "CHAMBI MAMANI"
+  },
+  {
+    "code": "0515",
+    "CI": "00000000",
+    "firstName": "TERESA",
+    "lastName": "CRUZ FLORES"
+  },
+  {
+    "code": "0516",
+    "CI": "00000000",
+    "firstName": "PASTORA",
+    "lastName": "COCA LOPEZ"
+  },
+  {
+    "code": "0517",
+    "CI": "00000000",
+    "firstName": "ROSEMARY NOELIA",
+    "lastName": "PACO MAMANI"
+  },
+  {
+    "code": "0518",
+    "CI": "00000000",
+    "firstName": "AMALIA",
+    "lastName": "MAMANI TRUJILLO"
+  },
+  {
+    "code": "0519",
+    "CI": "00000000",
+    "firstName": "JUAN CARLOS",
+    "lastName": "FLORES ARI"
+  },
+  {
+    "code": "0520",
+    "CI": "00000000",
+    "firstName": "CRISPIN",
+    "lastName": "CANAVIRI CHOQUE"
+  },
+  {
+    "code": "0521",
+    "CI": "00000000",
+    "firstName": "FIDELIA",
+    "lastName": "VARGAS CHOQUE"
+  },
+  {
+    "code": "0522",
+    "CI": "00000000",
+    "firstName": "DIOGENES",
+    "lastName": "MALDONADO JOSI"
+  },
+  {
+    "code": "0523",
+    "CI": "00000000",
+    "firstName": "JOAQUIN",
+    "lastName": "FRANCO MAMANI"
+  },
+  {
+    "code": "0524",
+    "CI": "00000000",
+    "firstName": "AURELIA",
+    "lastName": "ALANES VASQUEZ"
+  },
+  {
+    "code": "0525",
+    "CI": "00000000",
+    "firstName": "MOISES",
+    "lastName": "APAZA FLORES"
+  },
+  {
+    "code": "0526",
+    "CI": "00000000",
+    "firstName": "GREGORIO",
+    "lastName": "AGUAYO TOLA"
+  },
+  {
+    "code": "0527",
+    "CI": "00000000",
+    "firstName": "WILSON",
+    "lastName": "CUSICANQUI SALVADOR"
+  },
+  {
+    "code": "0528",
+    "CI": "00000000",
+    "firstName": "JUAN CARLOS",
+    "lastName": "TORREZ ARANDIA"
+  },
+  {
+    "code": "0529",
+    "CI": "00000000",
+    "firstName": "MARIA ELENA",
+    "lastName": "MENESES BARROSO"
+  },
+  {
+    "code": "0530",
+    "CI": "00000000",
+    "firstName": "LEONOR",
+    "lastName": "MALLCU MEDRANO"
+  },
+  {
+    "code": "0531",
+    "CI": "00000000",
+    "firstName": "ELEUTERIO",
+    "lastName": "FELIPE AGUAYO"
+  },
+  {
+    "code": "0532",
+    "CI": "00000000",
+    "firstName": "ROBERTO",
+    "lastName": "TORRICO ANDRADE"
+  },
+  {
+    "code": "0533",
+    "CI": "00000000",
+    "firstName": "RAMIRO",
+    "lastName": "PACO MACEDO"
+  },
+  {
+    "code": "0534",
+    "CI": "00000000",
+    "firstName": "FELIPA",
+    "lastName": "CUBA YUCRA"
+  },
+  {
+    "code": "0535",
+    "CI": "00000000",
+    "firstName": "SANTUSA",
+    "lastName": "SOLIZ FERNANDEZ"
+  },
+  {
+    "code": "0536",
+    "CI": "00000000",
+    "firstName": "PEDRO",
+    "lastName": "TOLA BELTRAN"
+  },
+  {
+    "code": "0537",
+    "CI": "00000000",
+    "firstName": "EDWIN",
+    "lastName": "MAMANI TICLLA"
+  },
+  {
+    "code": "0538",
+    "CI": "00000000",
+    "firstName": "PABLO EUGENIO",
+    "lastName": "MAGNE RODRIGUEZ"
+  },
+  {
+    "code": "0539",
+    "CI": "00000000",
+    "firstName": "ELIO FERNANDO",
+    "lastName": "MAMANI MAYTA"
+  },
+  {
+    "code": "0540",
+    "CI": "00000000",
+    "firstName": "SALOMON",
+    "lastName": "HURTADO LA FUENTE"
+  },
+  {
+    "code": "0541",
+    "CI": "00000000",
+    "firstName": "NICOLASA",
+    "lastName": "MORALES CONDORI"
+  },
+  {
+    "code": "0542",
+    "CI": "00000000",
+    "firstName": "JHON DIMAS",
+    "lastName": "MAMANI AYAVIRI"
+  },
+  {
+    "code": "0543",
+    "CI": "00000000",
+    "firstName": "FIDELIA",
+    "lastName": "RODRIGUEZ ZARATE"
+  },
+  {
+    "code": "0544",
+    "CI": "00000000",
+    "firstName": "RODOLFO LINO",
+    "lastName": "HERRERA TRONCOSO"
+  },
+  {
+    "code": "0545",
+    "CI": "00000000",
+    "firstName": "CRISTINA",
+    "lastName": "CRUZ CONDORI"
+  },
+  {
+    "code": "0546",
+    "CI": "00000000",
+    "firstName": "NANCY",
+    "lastName": "FERNANDEZ VARGAS"
+  },
+  {
+    "code": "0547",
+    "CI": "00000000",
+    "firstName": "PIO GUALBERTO",
+    "lastName": "SALVATIERRA RODRIGUEZ"
+  },
+  {
+    "code": "0548",
+    "CI": "00000000",
+    "firstName": "CRISTINA LIDIA",
+    "lastName": "ZARATE SOLARES"
+  },
+  {
+    "code": "0549",
+    "CI": "00000000",
+    "firstName": "ROSMERY",
+    "lastName": "CALIZAYA ALEGRE"
+  },
+  {
+    "code": "0550",
+    "CI": "00000000",
+    "firstName": "CELIA",
+    "lastName": "SOTO GUTIERREZ"
+  },
+  {
+    "code": "0551",
+    "CI": "00000000",
+    "firstName": "RAMIRO",
+    "lastName": "LAIME ROSAS"
+  },
+  {
+    "code": "0552",
+    "CI": "00000000",
+    "firstName": "ISABEL",
+    "lastName": "HUANCA APAZA"
+  },
+  {
+    "code": "0553",
+    "CI": "00000000",
+    "firstName": "C00PERATIVA",
+    "lastName": "NUEVO AMANECER"
+  },
+  {
+    "code": "0554",
+    "CI": "00000000",
+    "firstName": "VICENTA",
+    "lastName": "ATAHUACHI NINA"
+  },
+  {
+    "code": "0555",
+    "CI": "00000000",
+    "firstName": "EUGENIO MATIAS",
+    "lastName": "CLEMENTE"
+  },
+  {
+    "code": "0556",
+    "CI": "00000000",
+    "firstName": "JUANA CLEMENTINA",
+    "lastName": "MAMANI MAYTA"
+  },
+  {
+    "code": "0557",
+    "CI": "00000000",
+    "firstName": "PABLO FELIPE",
+    "lastName": "AGUAYO"
+  },
+  {
+    "code": "0558",
+    "CI": "00000000",
+    "firstName": "CLAUDIO",
+    "lastName": "CHIPANA COPA"
+  },
+  {
+    "code": "0559",
+    "CI": "00000000",
+    "firstName": "LUIS LUCAS",
+    "lastName": "VILLCA"
+  },
+  {
+    "code": "0560",
+    "CI": "00000000",
+    "firstName": "JHANETT ALICIA",
+    "lastName": "SALINAS VILLAN"
+  },
+  {
+    "code": "0561",
+    "CI": "00000000",
+    "firstName": "MARGARITA",
+    "lastName": "AYALA CONDORI"
+  },
+  {
+    "code": "0562",
+    "CI": "00000000",
+    "firstName": "GLICINA",
+    "lastName": "MARCA BAUTISTA DE ADUVIRI"
+  },
+  {
+    "code": "0563",
+    "CI": "00000000",
+    "firstName": "REMIGIA",
+    "lastName": "COCA CAMACHO"
+  },
+  {
+    "code": "0564",
+    "CI": "00000000",
+    "firstName": "VICTOR",
+    "lastName": "CUEVAS BARRETO"
+  },
+  {
+    "code": "0565",
+    "CI": "00000000",
+    "firstName": "MARIO",
+    "lastName": "LEDEZMA AGUAYO"
+  },
+  {
+    "code": "0566",
+    "CI": "00000000",
+    "firstName": "RUBEN",
+    "lastName": "LIENDRO CHAMBI"
+  },
+  {
+    "code": "0567",
+    "CI": "00000000",
+    "firstName": "REYNALDO",
+    "lastName": "SANCHEZ CHAMBI"
+  },
+  {
+    "code": "0568",
+    "CI": "00000000",
+    "firstName": "MERY",
+    "lastName": "VELA MAMANI"
+  },
+  {
+    "code": "0569",
+    "CI": "00000000",
+    "firstName": "NICOLAS LEON",
+    "lastName": "CHURA"
+  },
+  {
+    "code": "0570",
+    "CI": "00000000",
+    "firstName": "NORMA",
+    "lastName": "SANTOS GABRIEL"
+  },
+  {
+    "code": "0571",
+    "CI": "00000000",
+    "firstName": "NANCŸ",
+    "lastName": "SANTOS GABRIEL"
+  },
+  {
+    "code": "0572",
+    "CI": "00000000",
+    "firstName": "LEONARDO AIZA",
+    "lastName": "HUARACHI B"
+  },
+  {
+    "code": "0573",
+    "CI": "00000000",
+    "firstName": "MARITZA",
+    "lastName": "MAMANI ESCARZO"
+  },
+  {
+    "code": "0574",
+    "CI": "00000000",
+    "firstName": "FREDDY ANDRES",
+    "lastName": "OCAMPO PAREDES B"
+  },
+  {
+    "code": "0575",
+    "CI": "00000000",
+    "firstName": "ROSSELY MATILDE",
+    "lastName": "CANELAS"
+  },
+  {
+    "code": "0576",
+    "CI": "00000000",
+    "firstName": "ABEL",
+    "lastName": "BALDERRAMA QUISPE"
+  },
+  {
+    "code": "0577",
+    "CI": "00000000",
+    "firstName": "POLICARPIO",
+    "lastName": "ORCO LLANQUE"
+  },
+  {
+    "code": "0578",
+    "CI": "00000000",
+    "firstName": "MAURICIO SILVESTRE",
+    "lastName": "CALLISAYA"
+  },
+  {
+    "code": "0579",
+    "CI": "00000000",
+    "firstName": "NATALIA",
+    "lastName": "CUSICANQUI VILLA"
+  },
+  {
+    "code": "0580",
+    "CI": "00000000",
+    "firstName": "LUCIO AMEDICO",
+    "lastName": "TICONA CAHUANA"
+  },
+  {
+    "code": "0581",
+    "CI": "00000000",
+    "firstName": "BERTHA ALAVI",
+    "lastName": "CHUNCHO DE CONDORI"
+  },
+  {
+    "code": "0582",
+    "CI": "00000000",
+    "firstName": "ELSA EMILIA",
+    "lastName": "COCA LAZO"
+  },
+  {
+    "code": "0583",
+    "CI": "00000000",
+    "firstName": "SONIA",
+    "lastName": "GUTIERREZ CAHUANA"
+  },
+  {
+    "code": "0584",
+    "CI": "00000000",
+    "firstName": "SANTIAGO ELIAS",
+    "lastName": "MAMANI ZEBALLOS"
+  },
+  {
+    "code": "0585",
+    "CI": "00000000",
+    "firstName": "FLORENCIO",
+    "lastName": "VASQUEZ VILLARROEL"
+  },
+  {
+    "code": "0586",
+    "CI": "00000000",
+    "firstName": "ADRIANA SDENKA",
+    "lastName": "ZABALETA MAMANI"
+  },
+  {
+    "code": "0587",
+    "CI": "00000000",
+    "firstName": "FELICIANO",
+    "lastName": "CRUZ LLANOS"
+  },
+  {
+    "code": "0588",
+    "CI": "00000000",
+    "firstName": "FAUSTINO FELIPE",
+    "lastName": "AGUAYO"
+  },
+  {
+    "code": "0589",
+    "CI": "00000000",
+    "firstName": "MAURICIA JAMILLO",
+    "lastName": "HUALLPA"
+  },
+  {
+    "code": "0590",
+    "CI": "00000000",
+    "firstName": "REYNALDO SANTOS",
+    "lastName": "GALARZA"
+  },
+  {
+    "code": "0591",
+    "CI": "00000000",
+    "firstName": "JESUS",
+    "lastName": "FLORES FLORES"
+  },
+  {
+    "code": "0592",
+    "CI": "00000000",
+    "firstName": "ISRAEL GONZALO",
+    "lastName": "CRUZ PILLCO"
+  },
+  {
+    "code": "0593",
+    "CI": "00000000",
+    "firstName": "MARIA LUZ",
+    "lastName": "CALIZAYA ALEGRE"
+  },
+  {
+    "code": "0594",
+    "CI": "00000000",
+    "firstName": "ELIZABET",
+    "lastName": "CALATAYUD CHAVEZ B"
+  },
+  {
+    "code": "0595",
+    "CI": "00000000",
+    "firstName": "HENRY MARCIAL",
+    "lastName": "PERALTA ARROYO"
+  },
+  {
+    "code": "0596",
+    "CI": "00000000",
+    "firstName": "MARIEL",
+    "lastName": "FIGUEREDO MANCILLA"
+  },
+  {
+    "code": "0597",
+    "CI": "00000000",
+    "firstName": "TOMASINA",
+    "lastName": "CUIZARA DE HUAYRAJE"
+  },
+  {
+    "code": "0598",
+    "CI": "00000000",
+    "firstName": "FLORENCIO",
+    "lastName": "PAREDES QUENTA"
+  },
+  {
+    "code": "0599",
+    "CI": "00000000",
+    "firstName": "BERTHA",
+    "lastName": "YAVIRA AGUILAR"
+  },
+  {
+    "code": "0600",
+    "CI": "00000000",
+    "firstName": "LETICIA",
+    "lastName": "HERRERA MAMANI"
+  },
+
+  {
+    "code": "0601",
+    "CI": "00000000",
+    "firstName": "VICTOR GONZALO",
+    "lastName": "SANCHEZ APAZA"
+  },
+  {
+    "code": "0602",
+    "CI": "00000000",
+    "firstName": "JOSE LUIS",
+    "lastName": "HURTADO ANTONIO"
+  },
+  {
+    "code": "0603",
+    "CI": "00000000",
+    "firstName": "BERNARDINO LEANDRO",
+    "lastName": "TICONA"
+  },
+  {
+    "code": "0604",
+    "CI": "00000000",
+    "firstName": "JAIME ALANOCA",
+    "lastName": "RODRIGUEZ"
+  },
+  {
+    "code": "0605",
+    "CI": "00000000",
+    "firstName": "HENRRY B",
+    "lastName": "CHALLAPA COPA"
+  },
+  {
+    "code": "0606",
+    "CI": "00000000",
+    "firstName": "ALBERTO",
+    "lastName": "MAMANI CONDORI"
+  },
+  {
+    "code": "0607",
+    "CI": "00000000",
+    "firstName": "TEODORA",
+    "lastName": "FLORES MAMANI"
+  },
+  {
+    "code": "0608",
+    "CI": "00000000",
+    "firstName": "JHANET LILIAN",
+    "lastName": "COLOUE HUARACHI"
+  },
+  {
+    "code": "0609",
+    "CI": "00000000",
+    "firstName": "RAMIRO",
+    "lastName": "PACO MACEDO"
+  },
+  {
+    "code": "0610",
+    "CI": "00000000",
+    "firstName": "JHANET PAOLA",
+    "lastName": "PACO TICLLA"
+  },
+  {
+    "code": "0611",
+    "CI": "00000000",
+    "firstName": "PEDRO",
+    "lastName": "ALEGRE ESCALERA"
+  },
+  {
+    "code": "0612",
+    "CI": "00000000",
+    "firstName": "JHELMI",
+    "lastName": "ILLANES GUTIERREZ"
+  },
+  {
+    "code": "0613",
+    "CI": "00000000",
+    "firstName": "ELIAS ABEL",
+    "lastName": "VIDAURRE ROMERO"
+  },
+  {
+    "code": "0614",
+    "CI": "00000000",
+    "firstName": "HUMBERTO",
+    "lastName": "CARBAJAL QUISPE"
+  },
+  {
+    "code": "0615",
+    "CI": "00000000",
+    "firstName": "RIDER",
+    "lastName": "COPA OVANDO"
+  },
+  {
+    "code": "0616",
+    "CI": "00000000",
+    "firstName": "WILLIAN ANDRES",
+    "lastName": "ALMENDRAS CALISAYA"
+  },
+  {
+    "code": "0617",
+    "CI": "00000000",
+    "firstName": "CINTHIA",
+    "lastName": "ALAVE TOCOCARI"
+  },
+  {
+    "code": "0618",
+    "CI": "00000000",
+    "firstName": "EMILIANA",
+    "lastName": "MERIDA RODRIGUEZ"
+  },
+  {
+    "code": "0619",
+    "CI": "00000000",
+    "firstName": "MARY ISABEL",
+    "lastName": "ALBA COCA DE MEDRANO"
+  },
+  {
+    "code": "0620",
+    "CI": "00000000",
+    "firstName": "SANDRA ISABEL",
+    "lastName": "VILLA NUEVA LEON"
+  },
+  {
+    "code": "0621",
+    "CI": "00000000",
+    "firstName": "DANY",
+    "lastName": "GUTIERREZ MAMANI BUENO"
+  },
+  {
+    "code": "0622",
+    "CI": "00000000",
+    "firstName": "ABRAHAM",
+    "lastName": "MAMANI FLORES"
+  },
+  {
+    "code": "0623",
+    "CI": "00000000",
+    "firstName": "WILBER JOBE",
+    "lastName": "PADILLA"
+  },
+  {
+    "code": "0624",
+    "CI": "00000000",
+    "firstName": "IDUARDINA",
+    "lastName": "ZUBIETA NINA"
+  },
+  {
+    "code": "0625",
+    "CI": "00000000",
+    "firstName": "LIMBERTH JUAN",
+    "lastName": "GONZALES MEDRANO"
+  },
+  {
+    "code": "0626",
+    "CI": "00000000",
+    "firstName": "ADERSON",
+    "lastName": "ALMENDRAS CALIZAYA"
+  },
+  {
+    "code": "0627",
+    "CI": "00000000",
+    "firstName": "KEVIN",
+    "lastName": "ALMENDRAS CALIZAYA"
+  },
+  {
+    "code": "0628",
+    "CI": "00000000",
+    "firstName": "DANNY",
+    "lastName": "ALAVI CONDORI"
+  },
+  {
+    "code": "0629",
+    "CI": "00000000",
+    "firstName": "EDUARDA",
+    "lastName": "CHECO OSSIO"
+  },
+  {
+    "code": "0630",
+    "CI": "00000000",
+    "firstName": "VIDAL",
+    "lastName": "NINA AUCA"
+  },
+  {
+    "code": "0631",
+    "CI": "00000000",
+    "firstName": "LUIS ALBERTO",
+    "lastName": "MAMANI GUARITA"
+  },
+  {
+    "code": "0632",
+    "CI": "00000000",
+    "firstName": "KEYLA ARELY",
+    "lastName": "PEÑARANDA MAMANI"
+  },
+  {
+    "code": "0633",
+    "CI": "00000000",
+    "firstName": "NOEMI",
+    "lastName": "MAMANI COLQUE"
+  },
+  {
+    "code": "0634",
+    "CI": "00000000",
+    "firstName": "DEMELSA",
+    "lastName": "QUISPE SEHUENCA"
+  },
+
+  {
+    "code": "0635",
+    "CI": "00000000",
+    "firstName": "SANTOS",
+    "lastName": "HUARACHI ARAQUE"
+  },
+  {
+    "code": "0636",
+    "CI": "00000000",
+    "firstName": "GILMER GUSTAVO",
+    "lastName": "SORIANO JUAREZ"
+  },
+  {
+    "code": "0637",
+    "CI": "00000000",
+    "firstName": "ASOCIACION DE AGUA POTABLE EL PALMAR",
+    "lastName": "APOPALB"
+  },
+  {
+    "code": "0638",
+    "CI": "00000000",
+    "firstName": "GABRIELA",
+    "lastName": "CONDORI GABRIEL"
+  },
+  {
+    "code": "0639",
+    "CI": "00000000",
+    "firstName": "ROLANDO",
+    "lastName": "ALAVE MALDONADO"
+  },
+  {
+    "code": "0640",
+    "CI": "00000000",
+    "firstName": "ZACARIAS PASCUAL",
+    "lastName": "CONDORI B"
+  },
+  {
+    "code": "0641",
+    "CI": "00000000",
+    "firstName": "SAMUEL",
+    "lastName": "JALA CLAURE"
+  },
+  {
+    "code": "0642",
+    "CI": "00000000",
+    "firstName": "GABINO",
+    "lastName": "SOTO COCA"
+  },
+  {
+    "code": "0643",
+    "CI": "00000000",
+    "firstName": "WILSON",
+    "lastName": "GOMEZ VELIZ"
+  },
+  {
+    "code": "0644",
+    "CI": "00000000",
+    "firstName": "GENARD",
+    "lastName": "HUALLPA CHOCUERIVE"
+  },
+  {
+    "code": "0645",
+    "CI": "00000000",
+    "firstName": "SIMON",
+    "lastName": "VIDA CUSI"
+  },
+  {
+    "code": "0646",
+    "CI": "00000000",
+    "firstName": "MARIA ISABEL",
+    "lastName": "CHOQUE CHOQUETICLIA"
+  },
+  {
+    "code": "0647",
+    "CI": "00000000",
+    "firstName": "FELIX",
+    "lastName": "QUISPE CAISINA"
+  },
+  {
+    "code": "0648",
+    "CI": "00000000",
+    "firstName": "ELSA",
+    "lastName": "GONZALES MAMANI"
+  },
+  {
+    "code": "0649",
+    "CI": "00000000",
+    "firstName": "BANEZA",
+    "lastName": "COSSIO MORALES"
+  },
+  {
+    "code": "0650",
+    "CI": "00000000",
+    "firstName": "JOSUE JOSE",
+    "lastName": "PACO CALLISAYA"
+  },
+  {
+    "code": "0651",
+    "CI": "00000000",
+    "firstName": "MARIA JIMENA",
+    "lastName": "COLQUE JIMENEZ B"
+  },
+  {
+    "code": "0652",
+    "CI": "00000000",
+    "firstName": "NICOLAS",
+    "lastName": "CHUI CHOQUE"
+  },
+  {
+    "code": "0653",
+    "CI": "00000000",
+    "firstName": "ELMER",
+    "lastName": "VILLARROEL SILES"
+  },
+  {
+    "code": "0654",
+    "CI": "00000000",
+    "firstName": "SIXTO",
+    "lastName": "LAURA CARVAJAL"
+  }
+]

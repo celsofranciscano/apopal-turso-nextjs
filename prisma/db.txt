@@ -1,0 +1,192 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model tbprivileges {
+  PK_privilege Int       @id @default(autoincrement())
+  privilege    String    @unique
+  status       Boolean   @default(true)
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime?
+  tbusers      tbusers[]
+}
+
+// Modelo tbusers
+model tbusers {
+  PK_user      Int          @id @default(autoincrement())
+  FK_privilege Int
+  firstName    String
+  lastName     String
+   phoneNumber  String?
+  email        String       @unique
+  blockedUntil DateTime?
+  password     String?
+  profileImage String?
+  lastLogin    DateTime?
+  status       Boolean      @default(true)
+  createdAt    DateTime     @default(now())
+  updatedAt    DateTime?
+  tbprivileges tbprivileges @relation(fields: [FK_privilege], references: [PK_privilege])
+}
+
+// Modelo tbpartners
+model tbpartners {
+  PK_partner      Int               @id @default(autoincrement())
+  code            String               @unique
+  CI              String
+  firstName       String
+  lastName        String
+  birthdate       DateTime?
+   phoneNumber  String?
+  status          Boolean           @default(true)
+  createdAt       DateTime          @default(now())
+  updatedAt       DateTime?
+  tblocations     tblocations[]
+  tbwaterreadings tbwaterreadings[]
+  tbpayments      tbpayments[]
+  tbattendances   tbattendances[]
+}
+
+// Modelo tblocations
+model tblocations {
+  PK_location Int        @id @default(autoincrement())
+  FK_partner  Int
+  latitude    Float
+  longitude   Float
+  description String?
+  status      Boolean    @default(true)
+  createdAt   DateTime   @default(now())
+  updatedAt   DateTime?
+  tbpartners  tbpartners @relation(fields: [FK_partner], references: [PK_partner])
+}
+
+// Modelo tbprices
+model tbprices {
+  PK_price    Int       @id @default(autoincrement())
+  min_cubes   Int
+  max_cubes   Int
+  price       Float
+  fixed_price Boolean   @default(false)
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime?
+}
+
+// Modelo tbwaterreadings
+model tbwaterreadings {
+  PK_reading        Int                 @id @default(autoincrement())
+  FK_partner        Int
+  previousReading   Int
+  currentReading    Int
+  cubicMeters       Int
+  cubicCorrection   Int?
+  maintenance       Boolean             @default(false)
+  readingMonth      DateTime
+  pricing           Float?
+  paid              Boolean             @default(false)
+  description       String?
+  createdAt         DateTime            @default(now())
+  updatedAt         DateTime?
+  tbpartners        tbpartners          @relation(fields: [FK_partner], references: [PK_partner])
+  tbpayment_details tbpayment_details[]
+}
+
+// Modelo tbpayments
+model tbpayments {
+  PK_payment        Int                 @id @default(autoincrement())
+  FK_partner        Int
+  amount            Float
+  paymentMethod     String
+  description       String?
+  status            String              @default("Pendiente")
+  createdAt         DateTime            @default(now())
+  updatedAt         DateTime?
+  tbpartners        tbpartners          @relation(fields: [FK_partner], references: [PK_partner])
+  tbpayment_details tbpayment_details[]
+}
+
+// Modelo tbpayment_details
+model tbpayment_details {
+  PK_detail       Int             @id @default(autoincrement())
+  FK_payment      Int
+  FK_reading      Int
+  createdAt       DateTime        @default(now())
+  updatedAt       DateTime?
+  tbpayments      tbpayments      @relation(fields: [FK_payment], references: [PK_payment])
+  tbwaterreadings tbwaterreadings @relation(fields: [FK_reading], references: [PK_reading])
+}
+
+// Modelo tbactivitytypes
+model tbactivitytypes {
+  PK_activityType Int            @id @default(autoincrement())
+  activityType    String
+  description     String?
+  createdAt       DateTime       @default(now())
+  updatedAt       DateTime?
+  tbactivities    tbactivities[]
+}
+
+// Modelo tbactivities
+model tbactivities {
+  PK_activity     Int             @id @default(autoincrement())
+  FK_activityType Int
+  activityName    String
+  activityDate    DateTime
+  startTime       DateTime
+  endTime         DateTime
+  location        String?
+  description     String?
+  createdAt       DateTime        @default(now())
+  updatedAt       DateTime?
+  tbactivitytypes tbactivitytypes @relation(fields: [FK_activityType], references: [PK_activityType])
+  tbattendances   tbattendances[]
+}
+
+// Modelo tbattendances
+model tbattendances {
+  PK_attendance  Int          @id @default(autoincrement())
+  FK_partner     Int
+  FK_activity    Int
+  attendanceDate DateTime?
+  status         String
+  createdAt      DateTime     @default(now())
+  updatedAt      DateTime?
+  tbpartners     tbpartners   @relation(fields: [FK_partner], references: [PK_partner])
+  tbactivities   tbactivities @relation(fields: [FK_activity], references: [PK_activity])
+}
+
+// Modelo tbpermissions
+model tbpermissions {
+  PK_permission Int       @id @default(autoincrement())
+  FK_attendance Int
+  status        String    @default("Pendiente")
+  description   String?
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime?
+}
+
+// Modelo tbincometypes
+model tbincometypes {
+  PK_incometype Int       @id @default(autoincrement())
+  incomeType    String
+  pricing       Float
+  description   String?
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime?
+}
+
+// Modelo tbexpensetypes
+model tbexpensetypes {
+  PK_expensetype Int       @id @default(autoincrement())
+  expenseType    String
+  description    String?
+  createdAt      DateTime  @default(now())
+  updatedAt      DateTime?
+}

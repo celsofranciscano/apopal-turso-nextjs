@@ -12,6 +12,23 @@ yarn dev
 pnpm dev
 # or
 bun dev
+# axios
+npm i axios
+# React hook Form
+npm install react-hook-form
+# Authjs
+npm install next-auth@beta
+# instalar prisma
+npm install prisma --save-dev
+# crea el archivo esquema con los datos de sqlite:
+npx prisma init --datasource-provider sqlite
+# Pasar del esquema a la base de datos
+npx prisma migrate dev --name init
+# hasta aqui funciona sqlite  
+# sqlite 3
+# prisma libsql
+npm install @libsql/client @prisma/adapter-libsql
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
