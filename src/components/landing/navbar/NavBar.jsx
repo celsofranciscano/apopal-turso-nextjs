@@ -5,12 +5,10 @@ import ProfileCard from "@/components/dashboard/sidebar/ProfileCard";
 import LinkButton from "@/components/common/buttons/LinkButton";
 import { useSession } from "next-auth/react";
 
-
 function NavBar() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
   const { data: session } = useSession();
-
 
   useEffect(() => {
     const handleScroll = () => setIsScrolled(window.scrollY > 64);
@@ -60,7 +58,7 @@ function NavBar() {
         </nav> */}
 
         <div className="flex items-center justify-center gap-4">
-          <ProfileCard />
+          {session?.user && <ProfileCard />}
           {session?.user ? (
             <LinkButton name={"Volver a cuenta"} href={"/dashboard"} />
           ) : (

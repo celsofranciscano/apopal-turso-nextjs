@@ -7,6 +7,8 @@ const routePermissions = [
   { route: "/dashboard/settings/*", roles: ["Superadministrador"] },
   { route: "/dashboard/*", roles: ["Administrador", "Superadministrador"] },
   { route: "/account/*", roles: ["Cliente", "Superadministrador", "Administrador", "Invitado"] },
+  { route: "/api/dashboard/*", roles: [ "Superadministrador", "Administrador", "Invitado"] },
+  { route: "/api/settings/*", roles: [ "Superadministrador", "Administrador", "Invitado"] },
 ];
 
 // Función para convertir rutas dinámicas a expresiones regulares

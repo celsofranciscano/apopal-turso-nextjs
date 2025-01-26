@@ -1,3 +1,4 @@
+import Link from "next/link";
 export default async function Home() {
   return (
     <main>
@@ -13,9 +14,9 @@ export default async function Home() {
           <p className="text-zinc-200 text-lg">
             Accede a tu cuenta para ver tu consumo de agua y pagar tus facturas
           </p>
-          <button className="text-blue-500 bg-white text-xl font-medium px-6 py-2 rounded-md w-fit">
+          <Link href={"/auth/login"}  className="text-blue-500 bg-white text-xl font-medium px-6 py-2 rounded-md w-fit">
             Ingresar a mi cuenta
-          </button>
+          </Link>
         </div>
       </section>
 
